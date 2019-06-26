@@ -5,13 +5,13 @@ const { kingdoms, baseUrls } = require("./util");
 const wikiUrl = baseUrls.wikipedia;
 
 kingdoms.forEach(kingdom => {
-  let kingdomName = kingdom.replace(/ /g, "_");
+  const kingdomName = kingdom.replace(/ /g, "_");
   axios(`${wikiUrl}/${kingdomName}`).then(res => {
     const kingdomData = res.data;
-    kingdomName = kingdom.toLowerCase().replace(/ /g, "-");
+    const kingdomFilename = kingdom.toLowerCase().replace(/ /g, "-");
 
     fs.writeFile(
-      `./json/kingdoms/raw/${kingdomName}.json`,
+      `./json/kingdoms/raw/${kingdomFilename}.json`,
       JSON.stringify(kingdomData),
       err => {
         if (err) throw err;
