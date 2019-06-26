@@ -1,1 +1,54 @@
-{"type":"standard","title":"Austria","displaytitle":"Austria","namespace":{"id":0,"text":""},"wikibase_item":"Q40","titles":{"canonical":"Austria","normalized":"Austria","display":"Austria"},"pageid":26964606,"thumbnail":{"source":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/320px-Flag_of_Austria.svg.png","width":320,"height":213},"originalimage":{"source":"https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg","width":900,"height":600},"lang":"en","dir":"ltr","revision":"903552311","tid":"2756a2a0-97fd-11e9-9d11-991571facf14","timestamp":"2019-06-26T10:28:09Z","description":"Federal republic in Central Europe","coordinates":{"lat":47.33333333,"lon":13.33333333},"content_urls":{"desktop":{"page":"https://en.wikipedia.org/wiki/Austria","revisions":"https://en.wikipedia.org/wiki/Austria?action=history","edit":"https://en.wikipedia.org/wiki/Austria?action=edit","talk":"https://en.wikipedia.org/wiki/Talk:Austria"},"mobile":{"page":"https://en.m.wikipedia.org/wiki/Austria","revisions":"https://en.m.wikipedia.org/wiki/Special:History/Austria","edit":"https://en.m.wikipedia.org/wiki/Austria?action=edit","talk":"https://en.m.wikipedia.org/wiki/Talk:Austria"}},"api_urls":{"summary":"https://en.wikipedia.org/api/rest_v1/page/summary/Austria","metadata":"https://en.wikipedia.org/api/rest_v1/page/metadata/Austria","references":"https://en.wikipedia.org/api/rest_v1/page/references/Austria","media":"https://en.wikipedia.org/api/rest_v1/page/media/Austria","edit_html":"https://en.wikipedia.org/api/rest_v1/page/html/Austria","talk_page_html":"https://en.wikipedia.org/api/rest_v1/page/html/Talk:Austria"},"extract":"Austria, officially the Republic of Austria, is a country in Central Europe comprising nine federated states. Its capital, largest city and one of nine states is Vienna. Austria has an area of 83,879 km2 (32,386 sq mi), a population of nearly nine million people and a nominal GDP of $477 billion. It is bordered by the Czech Republic and Germany to the north, Hungary and Slovakia to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The terrain is landlocked and highly mountainous, lying within the Alps; only 32% of the country is below 500 m (1,640 ft), and its highest point is 3,798 m (12,461 ft). The majority of the population speaks local Bavarian dialects as their native language, and German in its standard form is the country's official language. Other regional languages are Hungarian, Burgenland Croatian, and Slovene.","extract_html":"<p><b>Austria</b>, officially the <b>Republic of Austria</b>, is a country in Central Europe comprising nine federated states. Its capital, largest city and one of nine states is Vienna. Austria has an area of 83,879 km<sup>2</sup> (32,386 sq mi), a population of nearly nine million people and a nominal GDP of $477 billion. It is bordered by the Czech Republic and Germany to the north, Hungary and Slovakia to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The terrain is landlocked and highly mountainous, lying within the Alps; only 32% of the country is below 500 m (1,640 ft), and its highest point is 3,798 m (12,461 ft). The majority of the population speaks local Bavarian dialects as their native language, and German in its standard form is the country's official language. Other regional languages are Hungarian, Burgenland Croatian, and Slovene.</p>"}
+{
+  "type": "standard",
+  "title": "Austria",
+  "displaytitle": "Austria",
+  "namespace": { "id": 0, "text": "" },
+  "wikibase_item": "Q40",
+  "titles": {
+    "canonical": "Austria",
+    "normalized": "Austria",
+    "display": "Austria"
+  },
+  "pageid": 26964606,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/320px-Flag_of_Austria.svg.png",
+    "width": 320,
+    "height": 213
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+    "width": 900,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "903552311",
+  "tid": "2756a2a0-97fd-11e9-9d11-991571facf14",
+  "timestamp": "2019-06-26T10:28:09Z",
+  "description": "Federal republic in Central Europe",
+  "coordinates": { "lat": 47.33333333, "lon": 13.33333333 },
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Austria",
+      "revisions": "https://en.wikipedia.org/wiki/Austria?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Austria?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Austria"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Austria",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Austria",
+      "edit": "https://en.m.wikipedia.org/wiki/Austria?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Austria"
+    }
+  },
+  "api_urls": {
+    "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Austria",
+    "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Austria",
+    "references": "https://en.wikipedia.org/api/rest_v1/page/references/Austria",
+    "media": "https://en.wikipedia.org/api/rest_v1/page/media/Austria",
+    "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Austria",
+    "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Austria"
+  },
+  "extract": "Austria, officially the Republic of Austria, is a country in Central Europe comprising nine federated states. Its capital, largest city and one of nine states is Vienna. Austria has an area of 83,879 km2 (32,386 sq mi), a population of nearly nine million people and a nominal GDP of $477 billion. It is bordered by the Czech Republic and Germany to the north, Hungary and Slovakia to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The terrain is landlocked and highly mountainous, lying within the Alps; only 32% of the country is below 500 m (1,640 ft), and its highest point is 3,798 m (12,461 ft). The majority of the population speaks local Bavarian dialects as their native language, and German in its standard form is the country's official language. Other regional languages are Hungarian, Burgenland Croatian, and Slovene.",
+  "extract_html": "<p><b>Austria</b>, officially the <b>Republic of Austria</b>, is a country in Central Europe comprising nine federated states. Its capital, largest city and one of nine states is Vienna. Austria has an area of 83,879 km<sup>2</sup> (32,386 sq mi), a population of nearly nine million people and a nominal GDP of $477 billion. It is bordered by the Czech Republic and Germany to the north, Hungary and Slovakia to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The terrain is landlocked and highly mountainous, lying within the Alps; only 32% of the country is below 500 m (1,640 ft), and its highest point is 3,798 m (12,461 ft). The majority of the population speaks local Bavarian dialects as their native language, and German in its standard form is the country's official language. Other regional languages are Hungarian, Burgenland Croatian, and Slovene.</p>"
+}

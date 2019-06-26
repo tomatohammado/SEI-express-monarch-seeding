@@ -1,1 +1,54 @@
-{"type":"standard","title":"France","displaytitle":"France","namespace":{"id":0,"text":""},"wikibase_item":"Q142","titles":{"canonical":"France","normalized":"France","display":"France"},"pageid":5843419,"thumbnail":{"source":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png","width":320,"height":213},"originalimage":{"source":"https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg","width":900,"height":600},"lang":"en","dir":"ltr","revision":"903369953","tid":"a078e950-972a-11e9-be66-293bb2f06a7e","timestamp":"2019-06-25T09:20:42Z","description":"Republic with mainland in Europe and numerous oversea territories","coordinates":{"lat":47,"lon":2},"content_urls":{"desktop":{"page":"https://en.wikipedia.org/wiki/France","revisions":"https://en.wikipedia.org/wiki/France?action=history","edit":"https://en.wikipedia.org/wiki/France?action=edit","talk":"https://en.wikipedia.org/wiki/Talk:France"},"mobile":{"page":"https://en.m.wikipedia.org/wiki/France","revisions":"https://en.m.wikipedia.org/wiki/Special:History/France","edit":"https://en.m.wikipedia.org/wiki/France?action=edit","talk":"https://en.m.wikipedia.org/wiki/Talk:France"}},"api_urls":{"summary":"https://en.wikipedia.org/api/rest_v1/page/summary/France","metadata":"https://en.wikipedia.org/api/rest_v1/page/metadata/France","references":"https://en.wikipedia.org/api/rest_v1/page/references/France","media":"https://en.wikipedia.org/api/rest_v1/page/media/France","edit_html":"https://en.wikipedia.org/api/rest_v1/page/html/France","talk_page_html":"https://en.wikipedia.org/api/rest_v1/page/html/Talk:France"},"extract":"France, officially the French Republic, is a country whose territory consists of metropolitan France in Western Europe and several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. It is bordered by Belgium, Luxembourg and Germany to the northeast, Switzerland and Italy to the east, and Andorra and Spain to the south. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions span a combined area of 643,801 square kilometres (248,573 sq mi) and a total population of 67.0 million. France, a sovereign state, is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice.","extract_html":"<p><b>France</b>, officially the <b>French Republic</b>, is a country whose territory consists of metropolitan France in Western Europe and several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. It is bordered by Belgium, Luxembourg and Germany to the northeast, Switzerland and Italy to the east, and Andorra and Spain to the south. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions span a combined area of 643,801 square kilometres (248,573 sq mi) and a total population of 67.0 million. France, a sovereign state, is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice.</p>"}
+{
+  "type": "standard",
+  "title": "France",
+  "displaytitle": "France",
+  "namespace": { "id": 0, "text": "" },
+  "wikibase_item": "Q142",
+  "titles": {
+    "canonical": "France",
+    "normalized": "France",
+    "display": "France"
+  },
+  "pageid": 5843419,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png",
+    "width": 320,
+    "height": 213
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "width": 900,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "903369953",
+  "tid": "a078e950-972a-11e9-be66-293bb2f06a7e",
+  "timestamp": "2019-06-25T09:20:42Z",
+  "description": "Republic with mainland in Europe and numerous oversea territories",
+  "coordinates": { "lat": 47, "lon": 2 },
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/France",
+      "revisions": "https://en.wikipedia.org/wiki/France?action=history",
+      "edit": "https://en.wikipedia.org/wiki/France?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:France"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/France",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/France",
+      "edit": "https://en.m.wikipedia.org/wiki/France?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:France"
+    }
+  },
+  "api_urls": {
+    "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/France",
+    "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/France",
+    "references": "https://en.wikipedia.org/api/rest_v1/page/references/France",
+    "media": "https://en.wikipedia.org/api/rest_v1/page/media/France",
+    "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/France",
+    "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:France"
+  },
+  "extract": "France, officially the French Republic, is a country whose territory consists of metropolitan France in Western Europe and several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. It is bordered by Belgium, Luxembourg and Germany to the northeast, Switzerland and Italy to the east, and Andorra and Spain to the south. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions span a combined area of 643,801 square kilometres (248,573 sq mi) and a total population of 67.0 million. France, a sovereign state, is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice.",
+  "extract_html": "<p><b>France</b>, officially the <b>French Republic</b>, is a country whose territory consists of metropolitan France in Western Europe and several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. It is bordered by Belgium, Luxembourg and Germany to the northeast, Switzerland and Italy to the east, and Andorra and Spain to the south. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions span a combined area of 643,801 square kilometres (248,573 sq mi) and a total population of 67.0 million. France, a sovereign state, is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice.</p>"
+}

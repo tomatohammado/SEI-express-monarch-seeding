@@ -1,1 +1,54 @@
-{"type":"standard","title":"England","displaytitle":"England","namespace":{"id":0,"text":""},"wikibase_item":"Q21","titles":{"canonical":"England","normalized":"England","display":"England"},"pageid":9316,"thumbnail":{"source":"https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png","width":320,"height":192},"originalimage":{"source":"https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg","width":800,"height":480},"lang":"en","dir":"ltr","revision":"903423602","tid":"b3b42e60-9826-11e9-b175-f3cedb8a688c","timestamp":"2019-06-25T16:30:45Z","description":"Country in north-west Europe, part of the United Kingdom","coordinates":{"lat":51.5,"lon":-0.11666667},"content_urls":{"desktop":{"page":"https://en.wikipedia.org/wiki/England","revisions":"https://en.wikipedia.org/wiki/England?action=history","edit":"https://en.wikipedia.org/wiki/England?action=edit","talk":"https://en.wikipedia.org/wiki/Talk:England"},"mobile":{"page":"https://en.m.wikipedia.org/wiki/England","revisions":"https://en.m.wikipedia.org/wiki/Special:History/England","edit":"https://en.m.wikipedia.org/wiki/England?action=edit","talk":"https://en.m.wikipedia.org/wiki/Talk:England"}},"api_urls":{"summary":"https://en.wikipedia.org/api/rest_v1/page/summary/England","metadata":"https://en.wikipedia.org/api/rest_v1/page/metadata/England","references":"https://en.wikipedia.org/api/rest_v1/page/references/England","media":"https://en.wikipedia.org/api/rest_v1/page/media/England","edit_html":"https://en.wikipedia.org/api/rest_v1/page/html/England","talk_page_html":"https://en.wikipedia.org/api/rest_v1/page/html/Talk:England"},"extract":"England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north. The Irish Sea lies west of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight.","extract_html":"<p><b>England</b> is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north. The Irish Sea lies west of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight.</p>"}
+{
+  "type": "standard",
+  "title": "England",
+  "displaytitle": "England",
+  "namespace": { "id": 0, "text": "" },
+  "wikibase_item": "Q21",
+  "titles": {
+    "canonical": "England",
+    "normalized": "England",
+    "display": "England"
+  },
+  "pageid": 9316,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
+    "width": 320,
+    "height": 192
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+    "width": 800,
+    "height": 480
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "903423602",
+  "tid": "b3b42e60-9826-11e9-b175-f3cedb8a688c",
+  "timestamp": "2019-06-25T16:30:45Z",
+  "description": "Country in north-west Europe, part of the United Kingdom",
+  "coordinates": { "lat": 51.5, "lon": -0.11666667 },
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/England",
+      "revisions": "https://en.wikipedia.org/wiki/England?action=history",
+      "edit": "https://en.wikipedia.org/wiki/England?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:England"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/England",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/England",
+      "edit": "https://en.m.wikipedia.org/wiki/England?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:England"
+    }
+  },
+  "api_urls": {
+    "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/England",
+    "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/England",
+    "references": "https://en.wikipedia.org/api/rest_v1/page/references/England",
+    "media": "https://en.wikipedia.org/api/rest_v1/page/media/England",
+    "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/England",
+    "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:England"
+  },
+  "extract": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north. The Irish Sea lies west of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight.",
+  "extract_html": "<p><b>England</b> is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north. The Irish Sea lies west of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight.</p>"
+}

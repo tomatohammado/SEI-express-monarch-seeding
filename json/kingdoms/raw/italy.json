@@ -1,1 +1,50 @@
-{"type":"standard","title":"Italy","displaytitle":"Italy","namespace":{"id":0,"text":""},"wikibase_item":"Q38","titles":{"canonical":"Italy","normalized":"Italy","display":"Italy"},"pageid":14532,"thumbnail":{"source":"https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png","width":320,"height":213},"originalimage":{"source":"https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg","width":1500,"height":1000},"lang":"en","dir":"ltr","revision":"903470278","tid":"55dd20e0-9794-11e9-872e-7f46767153d3","timestamp":"2019-06-25T21:57:37Z","description":"republic in Southern Europe","coordinates":{"lat":43,"lon":12},"content_urls":{"desktop":{"page":"https://en.wikipedia.org/wiki/Italy","revisions":"https://en.wikipedia.org/wiki/Italy?action=history","edit":"https://en.wikipedia.org/wiki/Italy?action=edit","talk":"https://en.wikipedia.org/wiki/Talk:Italy"},"mobile":{"page":"https://en.m.wikipedia.org/wiki/Italy","revisions":"https://en.m.wikipedia.org/wiki/Special:History/Italy","edit":"https://en.m.wikipedia.org/wiki/Italy?action=edit","talk":"https://en.m.wikipedia.org/wiki/Talk:Italy"}},"api_urls":{"summary":"https://en.wikipedia.org/api/rest_v1/page/summary/Italy","metadata":"https://en.wikipedia.org/api/rest_v1/page/metadata/Italy","references":"https://en.wikipedia.org/api/rest_v1/page/references/Italy","media":"https://en.wikipedia.org/api/rest_v1/page/media/Italy","edit_html":"https://en.wikipedia.org/api/rest_v1/page/html/Italy","talk_page_html":"https://en.wikipedia.org/api/rest_v1/page/html/Talk:Italy"},"extract":"Italy, officially the Italian Republic, is a European country consisting of a peninsula delimited by the Italian Alps and surrounded by several islands. Located in the middle of the Mediterranean sea and traversed along its length by the Apennines, Italy has a largely temperate seasonal and Mediterranean climate. The country covers an area of 301,340 km2 (116,350 sq mi) and shares open land borders with France, Slovenia, Austria, Switzerland and the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in the Tunisian Sea (Lampedusa). With around 60 million inhabitants, Italy is the fourth-most populous member state of the European Union.","extract_html":"<p><b>Italy</b>, officially the <b>Italian Republic</b>, is a European country consisting of a peninsula delimited by the Italian Alps and surrounded by several islands. Located in the middle of the Mediterranean sea and traversed along its length by the Apennines, Italy has a largely temperate seasonal and Mediterranean climate. The country covers an area of 301,340 km<sup>2</sup> (116,350 sq mi) and shares open land borders with France, Slovenia, Austria, Switzerland and the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in the Tunisian Sea (Lampedusa). With around 60 million inhabitants, Italy is the fourth-most populous member state of the European Union.</p>"}
+{
+  "type": "standard",
+  "title": "Italy",
+  "displaytitle": "Italy",
+  "namespace": { "id": 0, "text": "" },
+  "wikibase_item": "Q38",
+  "titles": { "canonical": "Italy", "normalized": "Italy", "display": "Italy" },
+  "pageid": 14532,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png",
+    "width": 320,
+    "height": 213
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "width": 1500,
+    "height": 1000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "903470278",
+  "tid": "55dd20e0-9794-11e9-872e-7f46767153d3",
+  "timestamp": "2019-06-25T21:57:37Z",
+  "description": "republic in Southern Europe",
+  "coordinates": { "lat": 43, "lon": 12 },
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Italy",
+      "revisions": "https://en.wikipedia.org/wiki/Italy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Italy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Italy"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Italy",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Italy",
+      "edit": "https://en.m.wikipedia.org/wiki/Italy?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Italy"
+    }
+  },
+  "api_urls": {
+    "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Italy",
+    "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Italy",
+    "references": "https://en.wikipedia.org/api/rest_v1/page/references/Italy",
+    "media": "https://en.wikipedia.org/api/rest_v1/page/media/Italy",
+    "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Italy",
+    "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Italy"
+  },
+  "extract": "Italy, officially the Italian Republic, is a European country consisting of a peninsula delimited by the Italian Alps and surrounded by several islands. Located in the middle of the Mediterranean sea and traversed along its length by the Apennines, Italy has a largely temperate seasonal and Mediterranean climate. The country covers an area of 301,340 km2 (116,350 sq mi) and shares open land borders with France, Slovenia, Austria, Switzerland and the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in the Tunisian Sea (Lampedusa). With around 60 million inhabitants, Italy is the fourth-most populous member state of the European Union.",
+  "extract_html": "<p><b>Italy</b>, officially the <b>Italian Republic</b>, is a European country consisting of a peninsula delimited by the Italian Alps and surrounded by several islands. Located in the middle of the Mediterranean sea and traversed along its length by the Apennines, Italy has a largely temperate seasonal and Mediterranean climate. The country covers an area of 301,340 km<sup>2</sup> (116,350 sq mi) and shares open land borders with France, Slovenia, Austria, Switzerland and the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in the Tunisian Sea (Lampedusa). With around 60 million inhabitants, Italy is the fourth-most populous member state of the European Union.</p>"
+}

@@ -1,7 +1,7 @@
 const fs = require("fs");
 const { kingdoms } = require("./util");
 
-const allMonarchData = [];
+const allMonarchsData = [];
 
 kingdoms.forEach(kingdom => {
   const kingdomFilename = kingdom.toLowerCase().replace(/ /g, "-");
@@ -12,12 +12,12 @@ kingdoms.forEach(kingdom => {
 
   monarchData = JSON.parse(monarchData);
 
-  monarchData.forEach(monarch => allMonarchData.push(monarch));
+  monarchData.forEach(monarch => allMonarchsData.push(monarch));
 });
 
 fs.writeFile(
   `./json/monarchs/monarchs.json`,
-  JSON.stringify(allMonarchData),
+  JSON.stringify(allMonarchsData),
   err => {
     if (err) throw err;
     console.log("Finish writing file: monarch.js");
