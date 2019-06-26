@@ -1,0 +1,119 @@
+name,image,house,houseImage,start,end,endReason,religion,JA_events,JA_wars,JA_relationships,border
+Vladimir the Great,img/russia/vladimir_the_great.jpg,Rurik,img/houses/rurik.png,980,1015,"Illness, 57","Pagan, then Christian","Expanded Kievan realm to include Belarus, Russia, and Ukraine|
+Converted to Christianity and Christianized the pagan Rus'",,"Holy Roman Empire, Otto I, Grandfather-in-law, img/hre/otto_i.jpeg",img/borders/russia/980.jpg
+Sviatopolk I,img/russia/sviatopolk_i.jpg,Rurik,img/houses/rurik.png,1015,1019,"Battle, 39",Eastern Orthodox,"Known as 'The Accursed', murdered his 3 brothers to seize power|
+Defeated in battle by remaining brother, Yaroslav",,"Poland, Boleslaus I, Father-in-law, img/poland/boleslaus_i.jpg",img/borders/russia/1018.jpg
+Yaroslav the Wise,img/russia/yaroslav.jpg,Rurik,img/houses/rurik.png,1019,1054,"Unspecified, 76",Eastern Orthodox,"Enacted code of law known as Russkaya Pravda, the Rus Truth|
+Captured part of Crimea from the Byzantine Empire|
+Captured Estonia with the help of Scandinavian allies","Rus'-Byzantine War, 1043","Poland, Casimir I, Brother-in-law, img/poland/casimir_i.png|
+France, Henry I, Son-in-law, img/france/henry_i.jpg|
+England, Edgar the Ætheling, Grandson, img/england/edgar_aethling.jpg",img/borders/russia/1054.jpg
+Iziaslav I,img/russia/iziaslav_i.jpg,Rurik,img/houses/rurik.png,1054,1073,Deposed,Eastern Orthodox,"Founded the first Kievan Eastern Orthodox monastery|
+Fled during popular uprising, then returned with help from Polish|
+Crowned first King of Rus' by the Pope",Kiev uprising of 1068,"Poland, Casimir I, Brother-in-law, img/poland/casimir_i.png",img/borders/russia/1054.jpg
+Sviatoslav II,img/russia/sviatoslav_ii.jpg,Rurik,img/houses/rurik.png,1073,1077,"Illness, 49",Eastern Orthodox,"Joined brothers Iziaslav and Vsevolod in a triumvirate of Kiev|
+With support of Vsevolod, dethroned and replaced Iziaslav",,,img/borders/russia/1054.jpg
+Vsevolod I,img/russia/vsevolod.jpg,Rurik,img/houses/rurik.png,1078,1093,"Illness, 63",Eastern Orthodox,"United the core principalities of Kiev, Chernigov, and Pereyaslav",,"Byzantine, Constantine IX, Brother-in-law, img/byzantine/constantine_ix.jpg|
+Holy Roman Empire, Henry IV, Son-in-law, img/hre/henry_iv.jpg",img/borders/russia/1093.jpg
+Sviatopolk II,img/russia/sviatopolk_ii.jpg,Rurik,img/houses/rurik.png,1093,1113,"Unspecified, 62",Eastern Orthodox,"Engaged in campaigns against the Kypchaks but defeated in 1093|
+Attemped compact with Chernigov by inviting Cuman raiders|
+Embellished the golden-roofed St. Michael's Abbey in Kiev","Battle of Stugna River, 1093","Poland, Boleslaw III, Son-in-law, img/poland/boleslaw_iii.png|
+Bohemia, Spytihnev II, Father-in-law, img/poland/spytihnev_ii.jpg",img/borders/russia/1093.jpg
+Vladimir II,img/russia/vladimir_ii.jpg,Rurik,img/houses/rurik.png,1112,1125,"Unspecified, 71",Eastern Orthodox,"Engaged in constant warfare with the Turkic Cumans|
+Held series of congresses to unite Rus' princes against Great Steppe",,"England, Harold Godwinson, Father-in-law, img/england/harold_godwinson.jpg",img/borders/russia/1093.jpg
+Mstislav I,img/russia/mstislav_i.jpg,Rurik,img/houses/rurik.png,1125,1132,"Unspecified, 55",Eastern Orthodox,"Fought the Cumans, Estonians, and Lithuanians for entire reign|
+After death, united Rus broke apart for four hundred years",,"Sweden, Inge I, Father-in-law, img/sweden/inge_i.jpg|
+Denmark, Valdemar I, Grandson, img/denmark/valdemar_i.jpg|
+Denmark, Eric II, Son-in-law, img/denmark/eric_ii.JPG",img/borders/russia/1093.jpg
+Ivan IV,img/russia/ivan_iv.jpg,Rurik,img/houses/rurik.png,1547,1584,"Stroke, 53",Eastern Orthodox,"Established the Tsardom of Russia with Moscow at the center|
+Conquered Khanates of Kazan, Astrakhan, and Sibir|
+Transformed Russia from medieval state to complex empire","Russo-Turkish War, 1568-70|
+Livonian War, 1558-83|
+Russo-Crimean War, 1570-72",,img/borders/russia/1584.jpg
+Feodor I,img/russia/feodor_i.jpg,Rurik,img/houses/rurik.png,1584,1598,"Unspecified, 40",Eastern Orthodox,"Last Rurikid Tsar of Russia|
+Country administered by brother-in-law, Boris Godunov|
+Dying childless, plunged Russia into the Time of Troubles",,,img/borders/russia/1598.jpg
+Boris Godunov,img/russia/boris_godunov.jpg,Godunov,,1598,1605,"Stroke, 53",Eastern Orthodox,"Rose through the ranks from soldier to favorite to minister|
+Separated Russian Orthodox Church from Constantinople","Russo-Swedish War, 1590-95",,img/borders/russia/1598.jpg
+Feodor II,img/russia/feodor_ii.jpg,Godunov,,1605,1605,Assassinated,Eastern Orthodox,"Proclaimed Tsar after the death of father|
+Envoys of False Dmitriy publicly read his fate in Red Square|
+Boyars, disloyal to new Tsar, arrested, strangled, and poisoned him",,,img/borders/russia/1598.jpg
+False Dmitry,img/russia/false_dmitry_i.jpg,,,1605,1606,Executed,Eastern Orthodox,"One of three pretenders claiming to be son of Ivan the Terrible|
+Formed army with support of Poland, marching against Godunov|
+Promised Russian Church back to Rome, inciting death by mob",,,img/borders/russia/1598.jpg
+Vasili IV,img/russia/vasili_iv.png,Shuyskiy,img/houses/shuyskiy.png,1606,1610,Deposed,Eastern Orthodox,"Plotted against False Dmitry, taking throne after his death|
+Deposed and forced into a monastery, dying a prisoner",,,img/borders/russia/1598.jpg
+Michael I,img/russia/michael_i.jpg,Romanov,img/houses/romanov.png,1613,1645,"Scurvy, 49",Eastern Orthodox,"Elected Tsar, taking Russia back from the Kingdom of Poland|
+Accession marked the end of the Time of Troubles|
+Conquered Siberia with help of cossacks and Stroganov family",Russian Conquest of Siberia,"Denmark, Valdemar Christian, Son-in-law, img/sweden/valdemar_christian.jpg",img/borders/russia/1645.jpg
+Alexis I,img/russia/alexis_i.jpg,Romanov,img/houses/romanov.png,1645,1676,"Unspecified, 46",Eastern Orthodox,"Excommunicated Patriarch Nikon, who attempted a Greek reform|
+Faced riots over salt, copper, and Cossacks led by Stenka Razin|
+Ended his reign with 8,000,000 square kilometers under his rule","Russo-Persian War, 1651-53|
+Russo-Polish War, 1654-67|
+Russo-Swedish War, 1656-58",,img/borders/russia/1676.jpg
+Feodor III,img/russia/feodor_iii.jpg,Romanov,img/houses/romanov.png,1676,1682,"Unspecified, 20",Eastern Orthodox,"Founded the academy of sciences in Zaikonospassky Monastery|
+Introduced reforms such as meritocracy, Greek, and beard shaving|
+Died without issue, sparking the Moscow Uprising of 1682",,,img/borders/russia/1676.jpg
+Peter I,img/russia/peter_i.jpg,Romanov,img/houses/romanov.png,1682,1725,"Uremia, 52",Russian Orthodox,"Westenized Russia, traveling Europe and founding St. Petersburg|
+Captured ports at Azov and Baltic Sea from Swedes and Tatars|
+Transformed Russia into modern, scientific Enlightened empire","Bulavin Rebellion, 1707-8|
+Russo-Turkish War of 1710|
+Great Northern War, 1700-21|
+","Sweden, Charles Frederick, Son-in-law, img/hre/charles_frederick.jpg",img/borders/russia/1725.jpg
+Catherine I,img/russia/catherine_i.jpg,Romanov,img/houses/romanov.png,1724,1727,"Tuberculosis, 43",Russian Orthodox,"Succeeded husband, since heir Alexei was convicted of treason|
+Continued liberalization, opening door to female monarchs",,"Sweden, Charles Frederick, Son-in-law, img/hre/charles_frederick.jpg",img/borders/russia/1725.jpg
+Peter II,img/russia/peter_ii.jpg,Romanov,img/houses/romanov.png,1727,1730,"Smallpox, 14",Russian Orthodox,"Son of Peter I through his first wife, Charlotte Christine|
+Disinclined to rule, spent time feasting and died quite young|
+Last male heir of the Romanov line",,"Holy Roman Empire, Louis Rudolph, Grandfather, img/hre/louis_rudolph.jpg",img/borders/russia/1725.jpg
+Anna,img/russia/anna.jpg,Romanov,img/houses/romanov.png,1730,1740,"Kidney stone, 47",Russian Orthodox,"Daughter of half-brother of Peter I's invalid half-brother, Ivan V|
+Continued reforms in architecture, science, and the arts|
+Named grand-nephew Ivan VI heir to exclude lineage of Peter I","War of the Polish Succession|
+Russo-Turkish War, 1735-39","Poland-Lithuania, Frederick William, Husband, img/poland/frederick_william.jpg",img/borders/russia/1725.jpg
+Ivan VI,img/russia/ivan_vi.jpg,Romanov,img/houses/romanov.png,1740,1741,Murdered,Russian Orthodox,"Declared Emperor at the age of two months|
+Imprisoned after a year by cousin Elizabeth, who launched a coup|
+After twenty years in captivity, killed by guards during failed rescue",,,img/borders/russia/1725.jpg
+Elizabeth,img/russia/elizabeth.jpg,Romanov,img/houses/romanov.png,1741,1762,"Stroke, 52",Russian Orthodox,"Invested heavily in architecture, such as the Winter Palace|
+Received all of Southern Finland from Sweden in Treaty of Åbo|
+Died unexpectedly before defeating Prussia in Seven Years' War","War of the Austrian Succession|
+Seven Years' War, 1756-63",,img/borders/russia/1761.jpg
+Peter III,img/russia/peter_iii.jpg,Holstein-Gottorp-Romanov,img/houses/romanov.png,1762,1762,Deposed,"Lutheran, then Orthodox","Nephew to Elizabeth, first of Holstein-Gottorp-Romanov house|
+A progressive, granted religion freedom and abolished secret police|
+Overthrown by wife Princess Sophie, who became Catherine II",,"Sweden, Charles Frederick, Father, img/hre/charles_frederick.jpg",img/borders/russia/1761.jpg
+Catherine II,img/russia/catherine_ii.jpg,Holstein-Gottorp-Romanov,img/houses/romanov.png,1762,1796,"Stroke, 67","Lutheran, then Orthodox","Oversaw the breakup of the Polish-Lithuanian Commonwealth|
+Gained Crimea and Poland; colonized Novorossia and Alaska|
+An enlightened absolutist, brought about an artistic renaissance","Russo-Turkish Wars, 1768-74|
+Polish-Russian War, 1792|
+Russo-Persian War, 1795","Poland, Stanislaw II, Lover, img/poland/stanislaw_ii.jpg|
+Sweden, Gustave IV Adolf, Cousin, img/sweden/gustav_iv_adolf.jpg",img/borders/russia/1796.jpg
+Paul I,img/russia/paul_i.jpg,Holstein-Gottorp-Romanov,img/houses/romanov.png,1796,1801,Assassinated,Russian Orthodox,"Added eastern Georgia to the empire|
+Allied with Britain and Austria against Napeolonic France|
+Creating policies unfriendly to nobles, was assassinated by military","Napoleonic Wars, 1796-1801","Prussia, Frederick II Eugene, Father-in-law, img/germany/frederick_eugene.jpg|
+Netherlands, William II, Son-in-law, img/dutch/william_ii.jpg",img/borders/russia/1796.jpg
+Alexander I,img/russia/alexander_i.jpg,Holstein-Gottorp-Romanov,img/houses/romanov.png,1801,1825,"Typhus, 47",Russian Orthodox,"King of Poland and Grand Duke of Finland during unity periods|
+Napoleon's army collapsed during invasion, losing 500,000 men|
+Joined Holy Alliance with Austria and Prussia to combat revolutions","Anglo-Russian War, 1807-1812|
+Finnish War, Sweden, 1808-9|
+Russo-Persian War, 1804-13",,img/borders/russia/1825.jpg
+Nicholas I,img/russia/nicholas_i.jpg,Holstein-Gottorp-Romanov,img/houses/romanov.png,1825,1855,"Pneumonia, 58",Russian Orthodox,"Seized the last territories in the Caucasus held by Persia|
+Lost Crimean War and influence over Romania, Serbia, & Black Sea|
+On eve of death, Russian territory was at its zenith: 8MM sq. miles","Russo-Persian War, 1826-28|
+Greek War of Independence|
+Crimean War, Ottomans, 1853-6","Denmark, Frederick William, Son-in-law, img/denmark/frederick_william.jpg|
+Prussia, Frederick William III, Father-in-law, img/germany/frederick_william_iii.jpg",img/borders/russia/1855.jpg
+Alexander II,img/russia/alexander_ii.jpg,Holstein-Gottorp-Romanov,img/houses/romanov.png,1855,1881,Assassinated,Russian Orthodox,"Emancipated Russian serfs, for which he is known as The Liberator|
+Sold Alaska to the United States to prevent it from becoming British|
+Pursued further expansion into Siberia, Caucasus, and Turkestain","Russo-Turkish War, 1877-78|
+January Uprising, Poland, 1863","German Confederation, Louis II, Father-in-law, img/germany/louis_ii.jpg|
+German Empire, Alfred, Son-in-law, img/germany/alfred.jpg|
+Greece, Alexandra, Daughter-in-law, img/greece/alexandra.jpg",img/borders/russia/1881.jpg
+Alexander III,img/russia/alexander_iii.jpg,Holstein-Gottorp-Romanov,img/houses/romanov.png,1881,1894,"Nephritis, 49",Russian Orthodox,"A counter-reformer, reversed many of his father's policies|
+Formed Triple Entente alliance with France and Great Britain|
+",,"Denmark, Christian IX, Father-in-law, img/denmark/christian_ix.jpg|
+England, Edward VII, Brother-in-law, img/england/edward_vii.jpg|
+Greece, George I, Brother-in-law, img/greece/george_i.jpg",img/borders/russia/1881.jpg
+Nicholas II,img/russia/nicholas_ii.jpg,Holstein-Gottorp-Romanov,img/houses/romanov.png,1894,1917,Abdicated,Russian Orthodox,"Lost influence over Manchuria and Korea to the Japanese|
+Lost 3.3 million Russians during World War I, causing revolution|
+Abdicated, imprisoned, and handed over to Bolsheviks for execution","Russo-Japanese War, 1904-5|
+World War I, 1914-1918","Denmark, Christian IX, Grandfather, img/denmark/christian_ix.jpg|
+Greece, Constantine I, Cousin, img/greece/constantine_i.jpg|
+Germany, Wilhelm II, Cousin, img/germany/wilhelm_ii.jpg",img/borders/russia/1917.jpg

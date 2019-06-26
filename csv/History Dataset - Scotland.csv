@@ -1,0 +1,73 @@
+name,image,house,houseImage,start,end,endReason,religion,JA_events,JA_wars,JA_relationships,border
+Malcolm III,img/scotland/malcolm_iii.jpg,Dunkeld,img/houses/dunkeld.png,1058,1093,"Battle, 62",Roman Catholic,"Lived in exile during reign of Macbeth, his father's killer|
+After Norman conquest, gave refuge to Edgar the Ætheling|
+Attempted conquest of Northumbria, dying in battle to William II","Harrying of the North, 1069","England, Edgar Æthling, Brother-in-law, img/england/edgar_aethling.jpg",img/borders/scotland/1093.jpg
+Donald Bane,img/scotland/donald_iii.jpg,Dunkeld,img/houses/dunkeld.png,1093,1094,Deposed,Roman Catholic,"Beseiged Edinburgh Castle with support of Celtic Scots|
+Expelled by nephew Duncan II with support of English and Normans",,,img/borders/scotland/1096.jpg
+Duncan II,img/scotland/duncan_ii.jpg,Dunkeld,img/houses/dunkeld.png,1094,1094,Assassinated,Roman Catholic,"Grew up as English hostage, as father's homage to William I|
+Deposed uncle Donald Bane, who then had him killed",,"England, Edgar Æthling, Uncle, img/england/edgar_aethling.jpg",img/borders/scotland/1096.jpg
+Donald Bane ,img/scotland/donald_iii.jpg,Dunkeld,img/houses/dunkeld.png,1094,1097,Deposed,Roman Catholic,"Had nephew Duncan II killed after just a few months|
+Deposed by an English army led by Edgar the Ætheling|
+Replaced by other nephew, Edgar, son of Malcolm III",,,img/borders/scotland/1096.jpg
+Edgar,img/scotland/edgar.jpg,Dunkeld,img/houses/dunkeld.png,1097,1107,"Unspecified, 43",Roman Catholic,"Placed on Scottish throne with aid of William II of England|
+First Scottish king to have Celtic and Anglo-Saxon ancestry|
+Ceded the Hebrides to Magnus III of Norway",,"England, Edgar Æthling, Uncle, img/england/edgar_aethling.jpg",img/borders/scotland/1096.jpg
+Alexander I,img/scotland/alexander_i.jpg,Dunkeld,img/houses/dunkeld.png,1107,1124,"Unspecified, 45",Roman Catholic,"Allowed younger brother, David, to rule southern Scotland|
+Likely acknolwedged Henry I of England has his overlord|
+Attempted to preserve the independence of the Scottish Church",,"England, Henry I, Father-in-law, img/england/henry_i.png|
+England, Edgar Æthling, Uncle, img/england/edgar_aethling.jpg",img/borders/scotland/1096.jpg
+David I,img/scotland/david_i.jpg,Dunkeld,img/houses/dunkeld.png,1124,1153,"Unspecified, 68",Roman Catholic,"Supported his niece, Empress Matilda, over Stephen of Blois|
+Granted Northumbria and Cumbria for fighting in The Anarchy|
+Annexed the Mormaer of Moray to the Scottish crown|","The Anarchy, England, 1135-53","England, Henry I, Brother-in-law, img/england/henry_i.png",img/borders/scotland/1214.jpg
+Malcolm IV,img/scotland/malcolm_iv.jpg,Dunkeld,img/houses/dunkeld.png,1153,1165,"Paget's disease, 24",Roman Catholic,"Ascended throne at age of 11, grandson of David I|
+Forced to give Northumbria and Cumbria back to Henry II|
+Succeeded by his brother, William the Lion",,,img/borders/scotland/1214.jpg
+William I,img/scotland/william_i.jpg,Dunkeld,img/houses/dunkeld.png,1165,1214,"Unspecified, 72",Roman Catholic,"Revolted to win back Northumbria but captured by Henry II|
+As part of release, confirmed the supremacy of English Church|
+Bought release of feudal subjection from Richard I","Revolt of 1173-74, England",,img/borders/scotland/1214.jpg
+Alexander II,img/scotland/alexander_ii.jpg,Dunkeld,img/houses/dunkeld.png,1214,1249,"Fever, 50",Roman Catholic,"Supported the English barons' revolt, hoping to reclaim land|
+Established Anglo-Scottish border through the Treaty of York","First Baron's War, 1215-7","England, Henry III, Brother-in-law, img/england/henry_iii.png",img/borders/scotland/1214.jpg
+Alexander III,img/scotland/alexander_iii.JPG,Dunkeld,img/houses/dunkeld.png,1249,1286,"Injury, 44",Roman Catholic,Gained Isle of Man and Hebrides from Norwegian Haakon IV,"Scottish-Norwegian War, 1262","England, Henry III, Father-in-law, img/england/henry_iii.png",img/borders/scotland/1286.jpg
+Margaret,img/scotland/margaret_maid_of_norway.jpg,Sverre,img/houses/norway.png,1286,1290,"Illness, 7",Roman Catholic,"Only surviving descendant of grandfather, Alexander III|
+Sailed from Norway to take crown, but died en route|
+Her death led to thirteen claims to the throne, the Great Cause",,"Norway, Eric II, Father, img/norway/eric_ii.jpg|
+England, Edward II, Betrothed, img/england/edward_ii.jpg",img/borders/scotland/1286.jpg
+John,img/scotland/john.jpg,Balliol,img/houses/balliol.png,1292,1296,Abdicated,Roman Catholic,"Selected among competitors during Great Cause|
+Deposed by Scottish nobility who'd signed a treaty with France|
+Imprisoned in Tower of London and exiled to Papal States",1st War of Scottish Independence,,img/borders/scotland/1296.jpg
+Robert I,img/scotland/robert_i.jpg,Bruce,img/houses/bruce.png,1306,1329,"Unspecified, 55",Roman Catholic,"Claimed throne while under rule of Edward I of England|
+Defeated the English at the Battle of Bannockburn|
+Finally made peace with England after deposition of Edward II",1st War of Scottish Independence,"Ireland, Elizabeth de Burgh, Wife, img/ireland/elizabeth_de_burgh.jpg",img/borders/scotland/1329.jpg
+David II,img/scotland/david_ii.jpg,Bruce,img/houses/bruce.png,1329,1371,"Unspecified, 46",Roman Catholic,"Sent to France for safety after losing the Battle of Halidon Hill|
+Captured by the English and held for 11 years|",2nd War of Scottish Independence,"England, Joan of the Tower, Wife, img/england/joan_of_the_tower.jpg",img/borders/scotland/1329.jpg
+Robert II,img/scotland/robert_ii.jpg,Stuart,img/houses/stuart.png,1371,1390,"Unspecified, 74",Roman Catholic,"Defeated the return of Edward Balliol and the English|
+Included Scotland in the Anglo-French truce of 1384",,,img/borders/scotland/1329.jpg
+Robert III,img/scotland/robert_iii.png,Stuart,img/houses/stuart.png,1390,1406,"Unspecified, 68",Roman Catholic,"Albany Stewart, his brother, had effective control over kingdom|
+Son David captured and killed by Albany|
+Other son, James, fled to France but was captured by Henry IV",,,img/borders/scotland/1329.jpg
+James I,img/scotland/james_i.jpg,Stuart,img/houses/stuart.png,1406,1437,Assassinated,Roman Catholic,"While a captive of Henry IV, raised in the English court|
+Arrested the Lord of the Isles and the Douglas clan leaders|
+Was murdered during a failed coup by uncle, Walter Stewart",,"France, Louis XI, Son-in-law, img/france/louis_xi.jpg",img/borders/scotland/1329.jpg
+James II,img/scotland/james_ii.jpg,Stuart,img/houses/stuart.png,1437,1460,"Battle, 29",Roman Catholic,"Murdered Earl of Douglas for consipiring with Lord of the Isles|
+Killed by friendly fire during the seige of an English castle","Black Douglas civil war, 1455","Flanders, Mary of Guelders, Wife, img/france/mary_guelders.jpg",img/borders/scotland/1329.jpg
+James III,img/scotland/james_iii.jpg,Stuart,img/houses/stuart.png,1460,1488,"Battle, 36",Roman Catholic,"Received Orkney and Shetland Islands as dowry from Norway|
+Imprisoned by Edward IV in Edinburgh Castle|
+Killed during a rebellion at the Battle of Sauchieburn",,"Denmark, Margaret, Wife, img/denmark/margaret.jpg",img/borders/scotland/1460.jpg
+James IV,img/scotland/james_iv.jpg,Stuart,img/houses/stuart.png,1488,1513,"Battle, 40",Roman Catholic,"Defeated his father, James III, at the Battle of Sauchieburn|
+Signed the Treaty of Perpetual Peace with Henry VII|
+Took away the Lord of the Isles title from the MacDonalds",War of the League of Cambrai,"England, Margaret Tudor, Wife, img/england/margaret_tudor.jpg|
+Denmark, Christian I, Grandfather, img/denmark/christian_i.jpg",img/borders/scotland/1460.jpg
+James V,img/scotland/james_v.jpg,Stuart,img/houses/stuart.png,1513,1542,"Illness, 30",Roman Catholic,"Imprisoned by his stepfather Archibald Douglas for 3 years|
+Persecuted Protestants during the Scottish Reformation|
+His death left the infant Mary, Queen of Scots as the heir","Anglo-Scottish Wars, 1542","England, Henry VIII, Uncle, img/england/henry_viii.jpg|
+France, Madeleine, Wife, img/france/madeleine_valois.jpg|
+France, Mary of Guise, Wife, img/france/mary_guise.jpg",img/borders/scotland/1460.jpg
+"Mary, Queen of Scots",img/scotland/mary.jpg,Stuart,img/houses/stuart.png,1542,1567,Deposed,Roman Catholic,"Arriving from France, imprisoned by Protestants and deposed|
+Believed by English Catholics to be the legitimate heir to Mary I|
+After 18 years in English custody, beheaded by Elizabeth I","Rough Wooing, 1543-51","France, Francis II, Husband, img/france/francis_ii.jpg|
+England, Edward VI, Betrothed, img/england/edward_vi.jpg",img/borders/scotland/1460.jpg
+James VI,img/england/james_vi_and_i.png,Stuart,img/houses/stuart.png,1567,1603,Union with England,Protestant,"Taken from Mary, Queen of Scots and raised as a Protestant|
+Ingratiated himself to the childless Elizabeth I to be named her heir|
+Colonized the Hebrides in an attempt to de-gaelicise it",,"Holy Roman Empire, Frederick V, Son-in-law, img/hre/frederick_v.jpg|
+Spain, Infanta Maria Anna, Attempted match, img/spain/maria_anna.jpg|
+Denmark, Anne, Wife, img/denmark/anne.jpg",img/borders/scotland/1460.jpg

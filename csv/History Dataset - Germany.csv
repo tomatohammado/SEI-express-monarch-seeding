@@ -1,0 +1,39 @@
+name,image,house,houseImage,start,end,endReason,religion,JA_events,JA_wars,JA_relationships,border
+Frederick I,img/germany/frederick_i.jpg,Hohenzollern,img/houses/hohenzollern.png,1701,1713,"Unspecified, 55",Calvinist,"Elevated Prussia to a kingdom through the Crown Treaty of 1700|
+In exchange, sent 8,000 men into War of Spanish Succession|
+Styled himself King in Prussia in deference to Poland",War of the Spanish Succession,"Dutch Republic, Frederick Henry, Grandfather, img/dutch/frederick_henry.jpg|
+England, William III, Cousin, img/england/william_iii_and_ii.jpg|
+England, George I, Brother-in-law, img/england/george_i.jpg",img/borders/germany/1713.jpg
+Frederick William I,img/germany/frederick_william_i.jpg,Hohenzollern,img/houses/hohenzollern.png,1713,1740,"Unspecified, 51",Calvinist,"Invited Protestant refugees to settled depopulated East Prussia|
+Invented the Canton System for better military conscription|
+Austere, left Prussia richer than any of the other German states","Great Northern War, 1700-21","England, George II, Brother-in-law, img/england/george_ii.jpg|
+Sweden, Adolf Frederick, Son-in-law, img/sweden/adolf_frederick.jpg",img/borders/germany/1740.jpg
+Frederick II,img/germany/frederick_ii.jpg,Hohenzollern,img/houses/hohenzollern.png,1740,1786,"Unspecified, 74",Calvinist,"Declared himself King of Prussia|
+Gained Polish and Silesian territories from Austria|
+An 'enlightened absolutist', used power for the good of the people","Silesian War, Austria, 1740-63|
+Seven Years' War, 1756-63",,img/borders/germany/1785.jpg
+Frederick William II,img/germany/frederick_william_ii.jpg,Hohenzollern,img/houses/hohenzollern.png,1786,1797,"Unspecified, 53",Calvinist,"Left Prussia near bankrupt due to his opulent lfiestyle|
+Acquired more Prussian land with third partition of Poland","Prussian Invasion of Holland|
+Austro-Turkish War, 1789|
+War of the 1st Coalition, 1792","Netherlands, William I, Son-in-law, img/dutch/william_i_netherlands.jpg",img/borders/germany/1797.jpg
+Frederick William III,img/germany/frederick_william_iii.jpg,Hohenzollern,img/houses/hohenzollern.png,1797,1840,"Fever, 69","Calvinist, then Lutheran","His army defeated by Napoleon, he fled to the court of Russia|
+During the Congress of Vienna, secured territorial increases|
+Attempted to centralize all Protestant churches under royal control","War of the 4th Coalition, 1806|
+War of the 6th Coalition, 1813","Russia, Nicholas I, Son-in-law, img/russia/nicholas_i.jpg",img/borders/germany/1840.jpg
+Frederick William IV,img/germany/frederick_william_iv.jpg,Hohenzollern,img/houses/hohenzollern.png,1840,1861,"Stroke, 65",Lutheran,"A Romantic and conservative, opposed liberalism and socialism|
+Falsely promised a constitution during the Revolutions of 1848|
+Vied for pan-German leadership against the Austrian Empire","War of the 6th Coalition, 1813",,img/borders/germany/1840.jpg
+William I,img/germany/william_i.jpg,Hohenzollern,img/houses/hohenzollern.png,1861,1888,"Illness, 90",Lutheran,"Settled German Question, taking leadership of pan-Germany|
+Founded the North German Confederation, then German Empire|
+Chancelor Otto von Bismarck created network of alliances","Second Schleswig War, 1864|
+Austro-Prussian War, 1866|
+Franco-Prussian War, 1870",,img/borders/germany/1888.jpg
+Frederick III,img/germany/frederick_iii.jpg,Hohenzollern,img/houses/hohenzollern.png,1888,1888,"Cancer, 56",Lutheran,"Attempted to reform government and remove office of Chancellor|
+Inherited throne with terminal cancer, dying after only 9 months|
+Throne went to son Wilhelm II, who had no liberal tendencies",,"England, Victoria, Mother-in-law, img/england/victoria.jpg|
+Greece, Constantine I, Son-in-law, img/greece/constantine_i.jpg",img/borders/germany/1888.jpg
+Wilhelm II,img/germany/wilhelm_ii.jpg,Hohenzollern,img/houses/hohenzollern.png,1888,1918,Abdicated,Lutheran,"Immediately dismissed chancelor Otto von Bismarck|
+Guaranteed support to Austria in 1914, leading to World War I|
+After defeat, lost the support of the army and the people","World War I, 1914-18","England, George V, Cousin, img/england/george_v.jpg|
+Russia, Nicholas II, Cousin, img/russia/nicholas_ii.jpg|
+Spain, Victoria Eugenia, Cousin, img/spain/victoria_eugenia.jpg",img/borders/germany/1918.jpg

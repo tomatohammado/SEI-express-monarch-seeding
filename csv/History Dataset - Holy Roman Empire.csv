@@ -1,0 +1,127 @@
+name,image,house,houseImage,start,end,endReason,religion,JA_events,JA_wars,JA_relationships,border
+Otto I,img/hre/otto_i.jpeg,Ottonian,img/houses/saxony.png,962,973,"Illness, 60",Roman Catholic,"Ended the Hungarian invasions of Western Europe|
+Conquered Northern Italy|
+Invaded papal states and installed Leo VIII as pope","Hungarian Invasions, 955-70","Byzantine Empire, Theophanu, Daughter-in-law, img/byzantine/theophano.jpeg|
+Italy, Adelaide, Wife, img/italy/adelaide.jpg|
+England, Edward the Elder, Father-in-law, img/england/edward_the_elder.jpg",img/borders/hre/973.jpg
+Otto II,img/hre/otto_ii.jpg,Ottonian,img/houses/saxony.png,967,983,"Malaria, 28",Roman Catholic,"Subjugated and christianized the Danes|
+Attempted and failed to take Italy from the Muslims","Emirate of Sicily, 982|
+Great Slav Rising, 983","Byzantine Empire, Theophanu, Wife, img/byzantine/theophano.jpeg",img/borders/hre/983.jpg
+Otto III,img/hre/otto_iii.jpg,Ottonian,img/houses/saxony.png,996,1002,"Illness, 21",Roman Catholic,"Lost territories east of the Elbe to Slavs|
+Died without heir, causing Italy to break away",,,img/borders/hre/983.jpg
+Henry II,img/hre/henry_ii.jpg,Ottonian,img/houses/saxony.png,1014,1024,"Illness, 51",Roman Catholic,"Crowned King of Germany following death of Otto III|
+Added Bohemia to the empire|
+Support for Rome led to the East-West Schism of the Church","German-Polish War, 1002-18|
+Battle of Cannae, 1018",,img/borders/hre/1024.jpg
+Conrad II,img/hre/conrad_ii.jpg,Salian,,1027,1039,"Gout, 49",Roman Catholic,"Claimed the vacant Dukedom of Bavaria|
+Incorporated the heirless Kingdom of Burgundy",,,img/borders/hre/1031.jpg
+Henry III,img/hre/henry_iii.jpg,Salian,,1046,1056,"Illness, 39",Roman Catholic,"Given Bavaria, Swabia, and Burgundy from father Conrad II|
+Trial of Italian bishop precipitated Investiture Controversy|
+Split Lorraine into Upper and Lower Lorraine",,"Aquitaine, Agnes, Wife, img/france/agnes.jpg|
+Denmark, Cnut the Great, Father-in-law, img/denmark/cnut_the_great.jpg",img/borders/hre/1056.jpg
+Henry IV,img/hre/henry_iv.jpg,Salian,,1056,1106,Abdicated,Roman Catholic,"Attempted to appoint bishops instead of the papacy|
+Excommunicated 5 times during Investiture Controversy|
+Defeated by son Henry with support of papacy","Saxon Rebellion, 1073-5|
+Great Saxon Revolt, 1077-88","Savoy, Bertha, Wife, img/italy/bertha.jpg|
+Russia, Vsevolod I, Father-in-law, img/russia/vsevolod.jpg",img/borders/hre/1106.jpg
+Henry V,img/hre/henry_v.jpg,Salian,,1111,1125,"Cancer, 39",Roman Catholic,"Captured Pope Paschal II|
+Settled Investiture Controversy in Concordat of Worms",,"England, Henry I, Father-in-law, img/england/henry_i.png",img/borders/hre/1106.jpg
+Lothair II,img/hre/lothair_ii.jpg,Supplinburg,,1133,1137,"Unspecified, 62",Roman Catholic,"Appointed Duke of Saxony for supporting Henry V against father|
+First elected Emperor without hereditary claim|
+","Sicily, 1136-7",,img/borders/hre/1106.jpg
+Frederick I,img/hre/frederick_i.jpg,Hohenstaufen,img/houses/hohenstaufen.png,1155,1190,"Drowned, 67",Roman Catholic,"Created feudal court via Landfrieden of 1152|
+Defeated at Alessandria by pro-papal Lombard League|
+Reconciled with Pope Alexander II at Peace of Venice","Italy, 1154-5|
+Italy, 1158-74|
+Third Crusade, 1189-92","Sicily, Constance, Daughter-in-law, img/italy/constance.jpg",img/borders/hre/1190.jpg
+Henry VI,img/hre/henry_vi.jpg,Hohenstaufen,img/houses/hohenstaufen.png,1191,1197,"Illness, 31",Roman Catholic,"Captured and ransomed Richard the Lionheart of England|
+Captured and added Sicily to the Empire|
+Attempted and failed to make imperial crown hereditary","Sicily, 1136-7","Sicily, Constance, Wife, img/italy/constance.jpg",img/borders/hre/1197.jpg
+Otto IV,img/hre/otto_iv.jpg,Welf,img/houses/welf.png,1209,1215,Abdicated,Roman Catholic,"Son of anti-king Henry the Lion|
+Excommunicated by Pope Innocent III|
+Frederick II elected concurrently by dissatisfied princes and Pope","Anglo-French War, 1213-4","England, Henry II, Grandfather, img/england/henry_ii.png",img/borders/hre/1215.jpg
+Frederick II,img/hre/frederick_ii.jpg,Hohenstaufen,img/houses/hohenstaufen.png,1220,1250,"Dysentary, 55",Roman Catholic,"Appointed king of Sicily and Jerusalem through marriage|
+Outlawed the practice of Trial by Ordeal|
+After death, Empire entered a period of long decline","Fifth Crusade, 1217-21|
+Sixth Crusade, 1228-9|
+Guelphs and Ghibellines, 1241","Sicily, Roger II, Father-in-law, img/italy/roger_ii.jpg|
+Aragon, Alfonso II, Father-in-law, img/spain/alfonso_ii.jpg",img/borders/hre/1215.jpg
+Henry VII,img/hre/henry_vii.jpg,Luxembourg,img/houses/luxembourg.png,1312,1313,"Malaria, 39",Roman Catholic,"Elected over French Charles of Valois as King of the Romans|
+Swung support amongst Italians to pro-Empire Ghibelline faction|
+Coronation ended the Great Interregnum of the empire","Italy, 1312-3","France, Charles IV, Son-in-law, img/france/charles_iv_and_i.jpg",img/borders/hre/1313.jpg
+Louis IV,img/hre/louis_iv.jpg,Wittelsbach,img/houses/wittelsbach.png,1328,1347,"Stroke, 65",Roman Catholic,"Elected over Habsburg cousin with support of Luxembourgs|
+Gave Teutonic Knights permission to invade Lithuania and Russia|
+Lost support of German princes to Charles IV of Luxembourg","Naples, 1328-30","Sweden, Eric XII, Son-in-law, img/sweden/eric_xii.jpg|
+Holland, William I, Father-in-law, img/dutch/william_i_count_of_hainaut.png",img/borders/hre/1347.jpg
+Charles IV,img/hre/charles_iv.jpg,Luxembourg,img/houses/luxembourg.png,1355,1378,"Unspecified, 62",Roman Catholic,"Crowned King of the Romans during the reign of Louis IV|
+Established Imperial succession in Golden Bull of 1356|
+",,"France, John II, Brother-in-law, img/france/john_ii.jpg|
+England, Richard II, Son-in-law, img/england/richard_ii.jpg|
+Hungary, Louis I, Son-in-law, img/hungary/louis_i.jpg",img/borders/hre/1378.jpg
+Sigismund,img/hre/sigismund.jpg,Luxembourg,img/houses/luxembourg.png,1433,1437,"Unspecified, 69",Roman Catholic,"Founded the Order of the Dragon to fight the Turks|
+Ended Papal Schism through the Council of Constance|
+Had Jan Hus executed after promising safe passage","Crusade of Nicopolis, 1396|
+Hussite Wars, 1419-34","Hungary, Louis I, Father-in-law, img/hungary/louis_i.jpg",img/borders/hre/1437.jpg
+Frederick III,img/hre/frederick_iii.jpg,Habsburg,img/houses/habsburg.png,1452,1493,"Amputation, 77",Roman Catholic,"Last Emperor to be crowned in Rome|
+Consolidated ancestral Habsburg land of Austria and Hungary",,"Portugal, Edward I, Father-in-law, img/portugal/edward_i.jpg",img/borders/hre/1493.jpg
+Maximilian I,img/hre/maximilian_i.jpg,Habsburg,img/houses/habsburg.png,1508,1519,"Unspecified, 59",Roman Catholic,"Proclaimed Emperor-elect at Trent|
+Lost Swiss territories to Swiss Confederacy|
+Established Habsburg dynasty in Spain via son's marriage to queen of Castile","Italian Wars, 1494-1516","Burgundy, Charles the Bold, Father-in-law, img/france/charles_the_bold.jpg|
+Brittany, Anne, Wife, img/france/anne_of_brittany.jpg|
+Castile, Philip I, Son, img/spain/philip_i.jpg",img/borders/hre/1519.jpg
+Charles V,img/hre/charles_v.jpg,Habsburg,img/houses/habsburg.png,1519,1556,Abdicated,Roman Catholic,"Financed conquistadores for Incan and Aztec expeditions|
+Organized Diet of Worms to halt the Protestant Reformation|
+Divided empire between Spanish and Austrian Habsburgs","Italian Wars, 1521-59|
+Ottoman-Habsburg Wars, 1529","Spain, Philip II, Son, img/spain/philip_ii.jpg|
+Portugal, Manuel I, Father-in-law, img/portugal/manuel_i.jpg|
+Portugal, Sebastian, Grandson, img/portugal/sebastian.png",img/borders/hre/1556.jpg
+Ferdinand I,img/hre/ferdinand_i.jpg,Habsburg,img/houses/habsburg.png,1556,1564,"Unspecified, 61",Roman Catholic,"Consolidated grasp over Hungary|
+Led Counter-Reformation, the Catholic response to Protestantism",,"Hungary, Vladislaus II, Father-in-law, img/hungary/vladislaus_ii.jpg|
+Poland, Sigismund II Augustus, Son-in-law, img/poland/sigismund_ii_augustus.jpg",img/borders/hre/1564.jpg
+Maximilian II,img/hre/maximilian_ii.jpg,Habsburg,img/houses/habsburg.png,1564,1576,"Unspecified, 49",Roman Catholic,"Established temporary peace with Protestants during the Confessionalization|
+Failed to evict Ottoman Turks from Hungary","Ottoman-Habsburg Wars, 1566-73","Spain, Maria, Wife & Cousin, img/spain/maria_of_austria.jpg|
+France, Charles IX, Son-in-law, img/france/charles_ix.jpg",img/borders/hre/1564.jpg
+Rudolf II,img/hre/rudolf_ii.jpg,Habsburg,img/houses/habsburg.png,1576,1612,Deposed,Roman Catholic,"Ineffectual ruler whose mistakes led to the Thirty Years' War|
+Influential patron of Northern Mannerist art|
+Intellectual devotee who helped seed the scientific revolution","Long Turkish War, 1593-1606",,img/borders/hre/1564.jpg
+Matthias,img/hre/matthias.jpeg,Habsburg,img/houses/habsburg.png,1612,1619,"Unspecified, 62",Roman Catholic,"Gave freedom of religion to the Dutch in Union of Utrecht|
+Imprisoned and stripped brother Rudolf II of all titles and land|
+Imprisoned Protestant leader Klesl during Bohemian Protestant revolt",,,img/borders/hre/1619.jpg
+Ferdinand II,img/hre/ferdinand_ii.jpg,Habsburg,img/houses/habsburg.png,1619,1637,"Unspecified, 58",Roman Catholic,"A zealous Catholic, led the Thirty Years' War against Protestants|
+Put down Bohemian revolt led by Protestant Emperor Frederick V|
+Ended civil war component by signing Peace of Prague in 1635","Thirty Years' War, 1618-48","Florence, Eleanor de' Medici, Mother-in-law, img/italy/eleanor_de_medici.jpg",img/borders/hre/1637.jpg
+Ferdinand III,img/hre/ferdinand_iii.jpg,Habsburg,img/houses/habsburg.png,1637,1657,"Unspecified, 48",Roman Catholic,"Appointed head of the Imperial army during Thirty Years' War|
+Made peace with Protestant league in 1648 with Peace of Westphalia","Thirty Years' War, 1618-48","Spain, Maria Anna, Wife & Cousin, img/spain/maria_anna.jpg|
+Spain, Philip IV, Brother-in-law & Son-in-law, img/spain/philip_iv.jpg|
+Poland, Michael I, Son-in-law, img/poland/michael_i.jpg",img/borders/hre/1657.jpg
+Leopold I,img/hre/leopold_i.jpg,Habsburg,img/houses/habsburg.png,1658,1705,"Unspecified, 64",Roman Catholic,"Received all of Kingdom of Hungary from Turks|
+Challenged the will of Spanish Charles II leaving Spain to France","Great Turkish War, 1683-99|
+Nine Years' War, 1688-97|
+War of the Spanish Succession","France, Louis XIV, Cousin, img/france/louis_xiv.jpg|
+Spain, Margaret Theresa, Wife & Cousin, img/spain/margaret_theresa.jpg|
+Portugal, John V, Son-in-law, img/portugal/john_v.jpg",img/borders/hre/1705.jpg
+Joseph I,img/hre/joseph_i.jpeg,Habsburg,img/houses/habsburg.png,1705,1711,"Smallpox, 32",Roman Catholic,Re-established Austrian hegemony over Italy,War of the Spanish Succession,"Poland, Augustus III, Son-in-law, img/poland/augustus_iii.png",img/borders/hre/1705.jpg
+Charles VI,img/hre/charles_vi.jpg,Habsburg,img/houses/habsburg.png,1711,1740,"Food poisoning, 55",Roman Catholic,"Issued Pragmatic Sanction of 1713 establishing daughter Maria Theresa heiress|
+Ceded overseas trading company in exchange for foreign recognition|
+Upon death, recognition was reneged, leading to War of the Austrian Succession",War of the Spanish Succession,,img/borders/hre/1740.jpg
+Charles VII,img/hre/charles_vii.jpg,Wittelsbach,img/houses/wittelsbach.png,1742,1745,"Gout, 47",Roman Catholic,"Elected Holy Roman Emperor over Maria Theresa through Salic Law|
+Overrun by Austrian Habsburg-Lorraine troops and fled to Frankfurt|
+Posthumously recognized by Habsburgs as Holy Roman Emperor",War of the Austrian Succession,"Poland, John III, Grandfather, img/poland/john_iii.jpg",img/borders/hre/1740.jpg
+Francis I,img/hre/francis_i.png,Lorraine,img/houses/lorraine.png,1745,1765,"Unspecified, 56",Roman Catholic,"Won the War of Austrian Succession with Habsburg wife Maria Theresa|
+Pursued business while wife managed the affairs of the Empire","War of the Austrian Succession|
+Seven Years' War, 1756-63","France, Marie Antoinette, Daughter, img/france/marie_antoinette.jpg",img/borders/hre/1740.jpg
+Joseph II,img/hre/joseph_ii.jpg,Habsburg-Lorraine,img/houses/habsburg.png,1765,1790,"Unspecified, 48",Roman Catholic,"Valuing the Enlightenment, unsuccessfully attempted reforms|
+Passed 1783 Edict of Tolerance giving some freedom of religion|
+Opposed by Hungarian nobles and died ruined and abandoned",,"France, Louis XV, Father-in-law, img/france/louis_xv.jpg|
+France, Louis XVI, Brother-in-law, img/france/louis_xvi.jpg",img/borders/hre/1740.jpg
+Leopold II,img/hre/leopold_ii.jpg,Habsburg-Lorraine,img/houses/habsburg.png,1790,1792,"Unspecified, 44",Roman Catholic,"Publicly vowed to intervene in French Revolution in 1791|
+Contested for power over Hungary with King of Prussia|
+Contested for power over Poland with Catherine the Great",,"France, Louis XVI, Brother-in-law, img/france/louis_xvi.jpg|
+Spain, Charles III, Father-in-law, img/spain/charles_iii.jpg|
+Sardinia, Charles Albert, Son-in-law, img/italy/charles_albert.jpg",img/borders/hre/1740.jpg
+Francis II,img/hre/francis_ii.jpg,Habsburg-Lorraine,img/houses/habsburg.png,1792,1806,Empire dissolved,Roman Catholic,"Defeated by Napoleon at the Battle of Austerlitz|
+Founded the Austrian Empire, becoming its first Emperor|
+Served as first president of German Confederation in 1815","War of the 2nd Coalition, 1798-1802|
+War of the 3rd Coalition, 1803-6|
+War of the 6th Coalition, 1813-4","France, Napoleon I, Son-in-law, img/france/napoleon_i.jpg|
+Sicily, Ferdinand I, Father-in-law, img/italy/ferdinand_i.jpg",img/borders/hre/1806.jpg

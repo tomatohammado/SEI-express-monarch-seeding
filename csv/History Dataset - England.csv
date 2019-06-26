@@ -1,0 +1,191 @@
+name,image,house,houseImage,start,end,endReason,religion,JA_events,JA_wars,JA_relationships,border
+William I,img/england/william_the_conquerer.png,Normandy,img/houses/normandy.png,1066,1087,"Illness, 59",Roman Catholic,"As Duke of Normandy, led the invading Norman forces|
+Defeated King Harold Godwinson at the Battle of Hastings|
+Left England to William Rufus and Normandy to Robert Curthose","Normal conquest of England, 1066|
+Harrying of the North, 1068|
+Revolt of the Earls, 1075","Flanders, Baldwin V, Father-in-law, img/france/baldwin_v.jpg|
+Brittany, Alan IV, Son-in-law, img/france/alan_iv.jpg|
+Normandy, Robert Curthose, Brother, img/france/robert_curthose.jpg",img/borders/england/1087.jpg
+William II,img/england/william_ii.png,Normandy,img/houses/normandy.png,1087,1100,Assassinated,Roman Catholic,"Faced a rebellion by barons who wanted a unified Norman rule|
+Undermined authority of Church, exiling the Archbishop|
+Killed Malcolm III, turning Scotland into an English vassal","Rebellion of 1088|
+Scotland, 1091-3|
+Normandy, 1097-9","Normandy, Robert Curthose, Brother, img/france/robert_curthose.jpg",img/borders/england/1100.jpg
+Henry I,img/england/henry_i.png,Normandy,img/houses/normandy.png,1100,1135,"Illness, 66",Roman Catholic,"Fought brother, Duke of Normandy, for English succession|
+Encouraged to invade Normandy, imprisoning brother for life|
+After son drowned, recalled daughter Matilda to be his heir","Normandy, 1106|
+France, 1116-9","Scotland, Matilda, Wife, img/scotland/matilda.JPG|
+Anjou, Matilda, Daughter, img/france/mathilda.png|
+Normandy, Robert Curthose, Brother, img/france/robert_curthose.jpg|
+Holy Roman Empire, Henry V, Son-in-law, img/hre/henry_v.jpg",img/borders/england/1135.jpg
+Stephen,img/england/stephen.jpg,Blois,img/houses/blois.png,1135,1154,"Illness, 57",Roman Catholic,"Favorite nephew of Henry I, disregarded claim by aunt Matilda|
+Civil war, the Anarchy, began with the invasion of Matilda's army|
+Settled the war by signing a treaty naming Matilda's son his heir","Scotland, 1136|
+The Anarchy, 1139-54","Blois, Stephen, Father, img/france/stepan.jpg|
+Boulogne, Matilda, Wife, img/france/matilda_boulogne.jpg",img/borders/england/1153.jpg
+Henry II,img/england/henry_ii.png,Plantagenet/Angevin,img/houses/plantagenet.png,1154,1189,"Ulcer, 56",Roman Catholic,"Count of Anjou through father and Aquitaine through wife|
+Unpopular for murder of Archbishop and support of antipope|
+Restored order following Anarchy with new judicial system","Great Revolt, 1173-4|
+Invasion of Ireland, 1169-75","Aquitaine, Eleanor, Wife, img/france/eleanor.jpg|
+Sicily, Joan, Daughter, img/italy/joan.jpg|
+Castille, Eleanor, Daughter, img/spain/eleanor.jpg",img/borders/england/1189.jpg
+Richard I,img/england/richard_i.jpeg,Plantagenet/Angevin,img/houses/plantagenet.png,1189,1199,Assassinated,Roman Catholic,"Romanticized and made popular for exploits in Third Crusade|
+Vied to appoint King of Jerusalem, perhaps killing a candidate|
+Captured on return and ransomed in exchange for his kingdom","Sicily, 1190|
+Cyprus, 1191","Navarre, Berengaria, Wife, img/france/berengaria.JPG",img/borders/england/1189.jpg
+John,img/england/john.png,Plantagenet/Angevin,img/houses/plantagenet.png,1199,1216,"Dysentary, 49",Roman Catholic,"Lost Normandy and all French holdings to French Philip II|
+After a revolt of English barons, forced to seal the Magna Carta|
+First king since Norman Conquest who could speak English","Normandy Campaigns, 1202-4|
+First Barons' War, 1215-7","Germany, Richard, Son, img/hre/richard.jpg|
+Holy Roman Empire, Isabella, Daughter, img/hre/isabella.jpg|
+Scotland, Joan, Daughter, img/scotland/joan.jpg",img/borders/england/1216.jpg
+Henry III,img/england/henry_iii.png,Plantagenet,img/houses/plantagenet.png,1216,1272,"Illness, 65",Roman Catholic,"Inherited a country ruled by rebellious barons, loyal to France|
+Financed papal wars in exchange for Sicilian crown for his son|
+Forced into Provisions of Oxford, establishing privy council","Second Barons' War, 1264-7|
+France, 1230","Aquitaine, Isabella, Mother, img/france/isabella.jpg|
+Scotland, Margaret, Daughter, img/scotland/margaret_plantagenet.JPG|
+Provence, Eleanor, Wife, img/france/eleanor_provence.jpg",img/borders/england/1272.jpg
+Edward I,img/england/edward_i.png,Plantagenet,img/houses/plantagenet.png,1272,1307,"Dysentary, 68",Roman Catholic,"Held parliaments and made it into a feature of English politics|
+Killed Llywelyn ap Gruffudd, destroying autonomy of Wales|
+Arbitrated in favor of John Balliol, but invaded after he rebelled","Conquest of Wales, 1277-83|
+Anglo-French War, 1294-1303","Castille, Eleanor, Wife, img/spain/eleanor_castille.jpg|
+France, Margaret, Wife, img/france/margaret.jpg",img/borders/england/1307.jpg
+Edward II,img/england/edward_ii.jpg,Plantagenet,img/houses/plantagenet.png,1307,1327,Deposed,Roman Catholic,"Ordinances of 1311 restricted power of king's appointments|
+Defeated by Robert the Bruce at Battle of Bannockburn|
+Favoritism caused wife to depose him and crown their son","Despenser War, 1321-2|
+War of Saint-Sardos, 1324","France, Isabella, Wife, img/france/isabella_plantagenet.jpg|
+Scotland, Joan, Daughter, img/scotland/joan_of_the_tower.jpg",img/borders/england/1327.jpg
+Edward III,img/england/edward_iii.png,Plantagenet,img/houses/plantagenet.png,1327,1377,"Stroke, 64",Roman Catholic,"Installed puppet, Edward Balliol, after death of Robert the Bruce|
+Pressed claim to French throne, sparking Hundred Years' War|
+During war, acquired Aquitaine but lost it and only kept Brittany","Hundred Years' War, 1337-1453|
+2nd War of Scottish Independence","Brittany, Mary, Daughter, img/france/mary_plantagenet.jpg",img/borders/england/1377.jpg
+Richard II,img/england/richard_ii.jpg,Plantagenet,img/houses/plantagenet.png,1377,1399,Deposed,Roman Catholic,"Succeeded grandfather after father, the Black Prince, died young|
+Introduced unpopular tax to finance French war, leading to revolt|
+Deposed by duke of Lancaster, whose inheritance Richard stole","Peasant's Revolt, 1381|
+Hundred Years' War, 1337-1453","Holy Roman Empire, Anne, Wife, img/hre/anne_plantagenet.jpg|
+France, Isabella, Wife, img/france/isabella_valois.JPG",img/borders/england/1399.jpg
+Henry IV,img/england/henry_iv.png,Lancaster,img/houses/lancaster.png,1399,1413,"Disease, 45",Roman Catholic,"Returned from exile after Richard II stole his possessions|
+Executed Archbishop of York and son of Duke of Norfolk|
+Imprisoned James I of Scotland for entire reign","Welsh rebellion, 1400|
+Hundred Years' War, 1337-1453","Denmark, Philippa, Daughter, img/denmark/philippa.jpg|
+Portugal, Philippa, Sister, img/portugal/philippa.png",img/borders/england/1399.jpg
+Henry V,img/england/henry_v.jpg,Lancaster,img/houses/lancaster.png,1413,1422,"Dysentary, 35",Roman Catholic,"Defeated France at Agincourt, allowing conquest of Normandy|
+Taking Rouen and allying with Burgundy, France surrendered|
+The Treaty of Troyes made him heir to the French throne","Hundred Years' War, 1337-1453","France, Catherine of Valois, Wife, img/france/catherine_valois.jpg",img/borders/england/1422.jpg
+Henry VI,img/england/henry_vi.jpg,Lancaster,img/houses/lancaster.png,1422,1461,Deposed,Roman Catholic,"Ascended as a minor, with power held by cousin Duke of York|
+Captured by Yorkists, who demanded they name a York heir|
+Routed at Yorkshire, fled to Scotland, captured, and imprisoned","Hundred Years' War, 1337-1453|
+Wars of the Roses, 1455-87","France, Margaret of Anjou, Wife, img/france/margaret_anjou.jpg",img/borders/england/1461.jpg
+Edward IV,img/england/edward_iv.jpg,York,img/houses/york.png,1461,1470,Deposed,Roman Catholic,"Defeated the Lancastrians with help of cousin, Earl of Warwick|
+Alienated Warwick and Yorkist nobles by marrying commoner|
+Warwick invaded, Edward fled, and Henry Lancaster released","Wars of the Roses, 1455-87","Burgundy, Charles, Brother-in-law, img/france/charles_burgundy.jpg",img/borders/england/1461.jpg
+Henry VI ,img/england/henry_vi.jpg,Lancaster,img/houses/lancaster.png,1470,1471,Murdered,Roman Catholic,"Restored to the throne from the Tower of London|
+Edward IV returned and defeated Margaret's forces|
+Re-imprisoned and murdered shortly afterwards","Wars of the Roses, 1455-87","France, Margaret of Anjou, Wife, img/france/margaret_anjou.jpg",img/borders/england/1471.jpg
+Edward IV ,img/england/edward_iv.jpg,York,img/houses/york.png,1471,1483,"Illness, 40",Roman Catholic,"Defeated the Lancaster forces, killing the heir at Tewkesbury|
+Made peace with France in return for a generous pension|
+Promiscuity led to brother Richard question the validity of sons","Wars of the Roses, 1455-87|
+France, 1475","Burgundy, Charles, Brother-in-law, img/france/charles_burgundy.jpg",img/borders/england/1471.jpg
+Edward V,img/england/edward_v.png,York,img/houses/york.png,1483,1483,Murdered,Roman Catholic,"Along with brother Richard, two surviving sons of Edward IV|
+Crowned at age 12 without regency, at insistence of Woodvilles|
+Likely murdered in the Tower of London by uncle Richard","Wars of the Roses, 1455-87",,img/borders/england/1471.jpg
+Richard III,img/england/richard_iii.jpg,York,img/houses/york.png,1483,1485,"Battle, 32",Roman Catholic,"Usurped power from nephew, Edward V, who 'disappeared'|
+Woodvilles, family of slain nephew, rallied behind Henry Tudor|
+Killed at Battle of Bosworth Field, ending the War of the Roses","Wars of the Roses, 1455-87|
+Buckingham's Rebellion, 1483",,img/borders/england/1471.jpg
+Henry VII,img/england/henry_vii.jpg,Tudor,img/houses/tudor.png,1485,1509,"Tuberculosis, 52",Roman Catholic,"Went into exile after the defeat of the Lancastrian cause|
+Married Elizabeth of York, but still faced Yorkish conspiracies|
+Made peace with Spain and Scotland through careful marriages",,"Spain, Catherine of Aragon, Daughter-in-law, img/spain/catherine_of_aragon.jpg|
+Scotland, Margaret, Daughter, img/scotland/margaret_tudor.jpg",img/borders/england/1471.jpg
+Henry VIII,img/england/henry_viii.jpg,Tudor,img/houses/tudor.png,1509,1547,"Obesity, 55",Catholic/Protestant,"Presided over the beginnings of the English Reformation|
+Unified England, Wales, and Ireland|
+Married to Catherine of Aragon, Anne Boleyn, and many others","Rough Wooing, 1543-51|
+Italian Wars, 1544-46","Spain, Catherine of Aragon, Wife,img/spain/catherine_of_aragon.jpg|
+Holy Roman Empire, Charles V, Brother-in-law, img/hre/charles_v.jpg|
+Scotland, Margaret, Sister, img/scotland/margaret_tudor.jpg",img/borders/england/1547.jpg
+Edward VI,img/england/edward_vi.jpg,Tudor,img/houses/tudor.png,1547,1553,"Tuberculosis, 15",Protestant,"Devoted Protestant, ruled through regency of Earl of Warwick|
+Excluded half-sisters Mary and Elizabeth from line of succession|
+Convinced by Warwick to name cousin Jane Grey, a Protestant","Prayer Book Rebellion, 1549","Scotland, Mary, Betrothed, img/scotland/mary.jpg",img/borders/england/1547.jpg
+Jane Grey,img/england/jane_grey.png,Grey,img/houses/grey.png,1553,1553,Executed,Protestant,"Maneuvered onto the throne by her uncle, Earl of Warwick|
+Overthrown by Mary Tudor with support of the populace|
+Imprisoned and pardoned, but executed after Wyatt's Rebellion",,,img/borders/england/1547.jpg
+Mary I,img/england/mary_i.png,Tudor,img/houses/tudor.png,1553,1558,"Ovarian cancer, 42",Roman Catholic,"The first queen to rule England in her own right|
+Known as Bloody Mary for her persecutions of Protestants|
+Defeated Wyatt's Rebellion, but died unpopular and childless","Italian Wars, 1557-8","Holy Roman Empire, Charles V, Engaged, img/hre/charles_v.jpg|
+Spain, Philip, Husband, img/spain/philip_ii.jpg|
+Spain, Catherine of Aragon, Mother, img/spain/catherine_of_aragon.jpg",img/borders/england/1558.jpg
+Elizabeth I,img/england/elizabeth_i.jpg,Tudor,img/houses/tudor.png,1558,1603,"Old age, 69",Anglican,"Crafted political symbolism, establishing a cult of her virginity|
+Executed Mary, Queen of Scots, to end Catholic cause|
+Childless, named Protestant Scottish king James VI as her heir","Anglo-Spanish War, 1585-1604|
+Rising of the North, 1569|
+Conquest of Ireland, 1594-1603",,img/borders/england/1602.jpg
+James I,img/england/james_vi_and_i.png,Stuart,img/houses/stuart.png,1603,1625,"Dysentary, 58",Anglican,"Clashed with English Parliament over his idea of absolutism|
+Authorized English translation of bible, the King James Version|
+Faced an assassination by Guy Fawkes, the Gunpowder Plot",,"Holy Roman Empire, Frederick V, Son-in-law, img/hre/frederick_v.jpg|
+Spain, Infanta Maria Anna, Attempted match, img/spain/maria_anna.jpg|
+Scotland, Mary Queen of Scots, Mother, img/scotland/mary.jpg",img/borders/england/1625.jpg
+Charles I,img/england/charles_i.png,Stuart,img/houses/stuart.png,1625,1649,Executed,Anglican,"Quarreled with Parliament, provoking the English Civil War|
+After six years of war, captured, put on trial, and executed|
+Oliver Cromwell takes over the Puritan Commonwealth","First Bishops' War, 1639-40|
+English Civil War, 1642-8","France, Henriette Maria, Wife, img/france/henrietta_maria.jpg",img/borders/england/1649.jpg
+Charles II,img/england/charles_ii.png,Stuart,img/houses/stuart.png,1660,1685,"Uraemia, 54","Anglican, then Catholic","Fighting for his father, escaped to France after losing to Cromwell|
+With no good successor to Cromwell, restored by Parliament|
+Secretly converted to Catholicism for French help against Dutch","2nd Anglo-Dutch War, 1665-7|
+3rd Anglo-Dutch War, 1672-4","Portugal, Catherine of Braganza, Wife, img/portugal/catherine.jpg|
+Dutch Republic, William of Orange, Nephew, img/england/william_iii_and_ii.jpg",img/borders/england/1625.jpg
+James II,img/england/james_ii_and_vii.jpg,Stuart,img/houses/stuart.png,1685,1688,Deposed,"Anglican, then Catholic","Converted to Catholicism and repealed anti-Catholic laws|
+Ordered bishops to offer indulgences, leading to public protests|
+Protestant nobles invited William of Orange to come take throne","Glorious Revolution, 1688-9","Italy, Mary of Modena, Wife, img/italy/mary_modena.jpg",img/borders/england/1625.jpg
+William III,img/england/william_iii_and_ii.jpg,Orange-Nassau,img/houses/orange_nassau.png,1688,1702,"Pneumonia, 51",Calvinist,"Seen by Protestants as a hero, saving Europe from the French|
+Faced Irish rebellions, the Jacobites, supporting James II|
+Passed the Act of Settlement, excluding Catholics from throne","Williamite War, 1688-91|
+Nine Years' War, 1688-97","Dutch Republic, William II, Father, img/dutch/william_ii.jpg",img/borders/england/1625.jpg
+Anne,img/england/anne.png,Stuart,img/houses/stuart.png,1702,1714,"Poor health, 49",Anglican,"Relied heavily on ministers, who led the war effort|
+Supported Tories, then Whigs, swayed by her current favorites|
+Succession passed over 57 candidates to Protestant Hanovers","War of Spanish Succession, 1701-14","Denmark, Prince George, Husband, img/denmark/george.jpg",img/borders/england/1625.jpg
+George I,img/england/george_i.jpg,Hanover,img/houses/hanover.png,1714,1727,"Stroke, 67",Lutheran,"Supported by Whigs over James Stuart, The Old Pretender|
+Unable to speak English, relied on Walpole, first Prime Minister|
+Embroiled in controversy over collapse of South Sea Company",War of the Quadruple Alliance,"Holy Roman Empire, Ernest Augustus, Father, img/hre/ernest_augustus.jpg|
+Prussia, Sophia Dorothea, Wife, img/hre/sophia_dorothea.jpg",img/borders/england/1714.jpg
+George II,img/england/george_ii.jpg,Hanover,img/houses/hanover.png,1727,1760,"Heart failure, 77",Lutheran,"Through John Carteret, joined the War of Austrian Succession|
+Accused of supporting his German holdings over England|
+Largely observed ministers leading Seven Years' War in France","War of Jenkins' Ear, 1739-48|
+War of the Austrian Succession|
+Seven Years' War, France, 1756-63","Prussia, Frederick the Great, Nephew, img/hre/frederick_ii.jpg|
+Holy Roman Empire, Caroline of Ansbach, Wife, img/hre/caroline_ansbach.jpg",img/borders/england/1714.jpg
+George III,img/england/george_iii.jpg,Hanover,img/houses/hanover.png,1760,1820,"Dementia, 81",Lutheran,"Attempted to finance Seven Years' War through colonial taxation|
+Lost American colonies to revolution, but united with Ireland|
+Fought with Revolutionary France to retain hold on aristocracy","American Revolution, 1775-83|
+Napoleonic Wars, 1793-1815","Holy Roman Empire, Charlotte of Mecklenburg-Strelitz, Wife, img/hre/charlotte_mecklenburg.jpg",img/borders/england/1820.jpg
+George IV,img/england/george_iv.jpg,Hanover,img/houses/hanover.png,1820,1830,"Obesity, 67",Anglican,"Served as regent during father's period of madness|
+Catholic Emancipation removed restrictions on Catholics|
+Retiring from politics, was known as an astute patron of the arts",,"Holy Roman Empire, Caroline of Brunswick, Wife, img/hre/caroline_brunswick.jpg",img/borders/england/1820.jpg
+William IV,img/england/william_iv.jpg,Hanover,img/houses/hanover.png,1830,1837,"Old age, 71",Anglican,"Oversaw the abolition of slavery, child labor, and welfare|
+Childless, British crown went to Victoria; Hanoverian to brother",,"Holy Roman Empire, Adelaide of Saxe-Meinigen, Wife, img/hre/adelaide.jpg|
+Belgians, Leopold I, Nephew-in-law, img/belgians/leopold_i.jpg",img/borders/england/1625.jpg
+Victoria,img/england/victoria.jpg,Hanover,img/houses/hanover.png,1837,1901,"Old age, 81",Anglican,"Indian Rebellion causes British East India Company to dissolve|
+Through Prince Albert, descended much of European royalty|
+Solidified holdings in Suez Canal, Cyprus, and across Africa","Anglo-Zulu War, 1879|
+2nd Anglo-Afghan War, 1878-80|
+Boer War, Boer States, 1899-1902","German Confederation, Prince Albert, Husband, img/hre/prince_albert.jpg|
+German Empire, Frederick William, Son-in-law, img/hre/frederick_william.jpg",img/borders/england/1625.jpg
+Edward VII,img/england/edward_vii.jpg,Saxe-Coburg and Gotha,img/houses/saxe_coburg_and_gotha.png,1901,1910,"Heart attack, 68",Anglican,"Immensely popular, known as the ""Uncle of Europe""|
+Excluded from cabinet by mother who disapproved of affairs|
+Helped enact the Parliament Act, limiting the House of Lords",,"German Empire, Wilhelm II, Nephew, img/hre/wilhelm_ii.jpg|
+Denmark, Alexandra, Wife, img/denmark/alexandra.jpg|
+Russia, Nicholas II, Nephew-in-law, img/russia/nicholas_ii.jpg|
+Spain, Victoria Eugenia, Niece, img/spain/victoria_eugenia.jpg|
+Sweden, Margaret, Niece, img/sweden/margaret.png",img/borders/england/1625.jpg
+George V,img/england/george_v.jpg,Windsor,img/houses/windsor.png,1910,1936,"Cold, 70",Anglican,"Granted home rule to Ireland|
+Renamed house from Saxe-Coburg and Gotha to Windsor|
+Formed a coalition government of Liberal and Conservative","World War I, 1914-8","German Empire, Wilhelm II, Cousin, img/hre/wilhelm_ii.jpg|
+Russia, Nicholas II, Cousin, img/russia/nicholas_ii.jpg",img/borders/england/1936.jpg
+Edward VIII,img/england/edward_viii.png,Windsor,img/houses/windsor.png,1936,1936,Abdicated,Anglican,"Voluntarily abdicated in order to marry American divorcee|
+Implicated in plot to restore him to throne as a Nazi agent|
+Governer of The Bahamas, then lived in Paris after the war",,,img/borders/england/1936.jpg
+George VI,img/england/george_vi.png,Windsor,img/houses/windsor.png,1936,1952,"Heart failure, 56",Anglican,"Supported appeasement policy towards Germany until Churchill|
+Ceased to be emperor of India and Pakistan after independence|
+Oversaw British Empire turn into Commonwealth of Nations","World War II, 1939-45",,img/borders/england/1936.jpg
+Elizabeth II,img/england/elizabeth_ii.jpg,Windsor,img/houses/windsor.png,1952,2019,,Anglican,"Married her cousin, Philip Mountbatten of Greece and Denmark|
+Allowed television crews into domestic life, modernizing family|
+Plays a completely ceremonial role, staying out of politics",,,img/borders/england/1936.jpg

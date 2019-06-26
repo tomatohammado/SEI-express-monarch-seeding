@@ -1,0 +1,947 @@
+[
+  {
+    "date": "1347",
+    "event": "Black Death kills 1/3 of Europe",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1485",
+    "event": "English sweating sickness",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1572",
+    "event": "St. Bartholomew's Day massacre",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1666",
+    "event": "Great Fire of London",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1793",
+    "event": "French Reign of Terror",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1845",
+    "event": "Great Famine of Ireland",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1846",
+    "event": "Third cholera pandemic",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1883",
+    "event": "Krakatoa erupts",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1889",
+    "event": "1889-1890 flu pandemic",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1918",
+    "event": "Spanish flu",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1933",
+    "event": "Holodomor",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1941",
+    "event": "The Holocaust",
+    "description": "",
+    "type": "catastrophe",
+    "hidden": ""
+  },
+  {
+    "date": "1320",
+    "event": "Divine Comedy (Dante)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1484",
+    "event": "The Birth of Venus (Botticelli)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1495",
+    "event": "The Last Supper (da Vinci)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1512",
+    "event": "Sistine Chapel (Michelangelo)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1599",
+    "event": "Hamlet (Shakespeare)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1667",
+    "event": "Paradise Lost (Milton)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1751",
+    "event": "Encyclopédie",
+    "description": "",
+    "type": "culture",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1759",
+    "event": "Candide (Voltaire)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1760",
+    "event": "Industrial Revolution begins",
+    "description": "",
+    "type": "culture",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1786",
+    "event": "The Marriage of Figaro (Mozart)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1790",
+    "event": "Faust (Goethe)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1805",
+    "event": "Eroica (Beethoven)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1818",
+    "event": "Ozymandias (Shelley)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1861",
+    "event": "Great Expectations (Dickens)",
+    "description": "",
+    "type": "culture",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1865",
+    "event": "Tristan und Isolde (Wagner)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1881",
+    "event": "The Portrait of a Lady (James)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1889",
+    "event": "The Starry Night (van Gogh)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1922",
+    "event": "Ulysses (Joyce)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1937",
+    "event": "Guernica (Picasso)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1948",
+    "event": "No. 5, 1948 (Pollock)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "1962",
+    "event": "Campbell's Soup Cans (Warhol)",
+    "description": "",
+    "type": "culture",
+    "hidden": ""
+  },
+  {
+    "date": "754",
+    "event": "Papal States established",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "843",
+    "event": "Treaty of Verdun splits Francia",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1215",
+    "event": "Magna Carta",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1453",
+    "event": "Treaty of Picquiny ends Hundred Years' War",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1477",
+    "event": "Kingdom of Burgundy dissolves",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1494",
+    "event": "Treaty of Tordesillas sets colonial boundaries",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1555",
+    "event": "Peace of Augsburg legalizes German Lutheranism",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1598",
+    "event": "Edict of Nantes legalizes French Lutheranism",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1620",
+    "event": "Kingdom of Navarre dissolves",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1648",
+    "event": "Peace of Westphalia ends Thirty Years' War",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1701",
+    "event": "Kingdom of Prussia established",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1715",
+    "event": "Unification of Spanish kingdoms",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1783",
+    "event": "Treaty of Paris ends American Revolution",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1793",
+    "event": "First French Republic established",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1806",
+    "event": "Holy Roman Empire dissolves",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1815",
+    "event": "Congress of Vienna reshapes Europe",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1848",
+    "event": "Workers' revolutions sweep Europe",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1871",
+    "event": "Germany and Italy unified",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1920",
+    "event": "Treaty of Versailles ends World War I",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1931",
+    "event": "Second Spanish Republic established",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1947",
+    "event": "Paris Peace Treaties conclude World War II",
+    "description": "",
+    "type": "diplomacy",
+    "hidden": ""
+  },
+  {
+    "date": "1066",
+    "event": "Normans conquest of England",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1240",
+    "event": "Kievan Rus' falls to the Golden Horde",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1296",
+    "event": "First Scottish War of Independence",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1337",
+    "event": "Hundred Years' War begins",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1429",
+    "event": "Joan of Arc breaks the seige of Orleans",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1453",
+    "event": "Fall of Constantinople",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1455",
+    "event": "Wars of the Roses begins",
+    "description": "",
+    "type": "military",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1492",
+    "event": "Moors surrender in Granada",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1562",
+    "event": "French Wars of Religion begin",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1588",
+    "event": "Spanish Armada destroyed by England",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1618",
+    "event": "30 Years' War begins",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1642",
+    "event": "English Civil War",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1756",
+    "event": "Seven Years' War begins",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1775",
+    "event": "American Revolution",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1793",
+    "event": "French Revolution",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1805",
+    "event": "Napoleon defeats coalition at Austerlitz",
+    "description": "Holy Roman Empire dissolved",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1815",
+    "event": "Napoleon defeated by coalition at Waterloo",
+    "description": "Napoleon defeated",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1853",
+    "event": "Crimean War",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1870",
+    "event": "Franco-Prussian War",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1914",
+    "event": "World War I begins",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1936",
+    "event": "Spanish Civil War begins",
+    "description": "",
+    "type": "military",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1939",
+    "event": "World War II begins",
+    "description": "",
+    "type": "military",
+    "hidden": ""
+  },
+  {
+    "date": "1975",
+    "event": "Cambodian genocide",
+    "description": "",
+    "type": "military",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1265",
+    "event": "Summa Theologiae (Aquinas)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1637",
+    "event": "Discourse on Method (Descartes)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1651",
+    "event": "Leviathan (Hobbes)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1677",
+    "event": "Ethics (Spinoza)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1689",
+    "event": "Two Treatises of Government (Locke)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1739",
+    "event": "A Treatise of Human Nature (Hume)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1762",
+    "event": "The Social Contract (Rousseau)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1781",
+    "event": "Critique of Pure Reason (Kant)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1791",
+    "event": "A Vindication of the Rights of Woman (Wollstonecraft)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1807",
+    "event": "Phenomenology of Spirit (Hegel)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1818",
+    "event": "The World as Will and Representation (Schopenhauer)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1843",
+    "event": "Either/Or (Kierkegaard)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1848",
+    "event": "The Communist Manifesto (Marx)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1886",
+    "event": "Beyond Good and Evil (Nietzsche)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1890",
+    "event": "The Principles of Psychology (James)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1903",
+    "event": "The Principles of Mathematics (Russell)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1927",
+    "event": "Being and Time (Heidegger)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1953",
+    "event": "Philosophical Investigations (Wittgenstein)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "1960",
+    "event": "Madness and Civilization (Foucault)",
+    "description": "",
+    "type": "philosophy",
+    "hidden": ""
+  },
+  {
+    "date": "800",
+    "event": "Charlemagne crowned Emperor of the Romans",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "863",
+    "event": "Photian Schism",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "910",
+    "event": "Cluniac Reforms",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "975",
+    "event": "Christianization of the Danes",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "989",
+    "event": "Christianization of the Rus'",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1050",
+    "event": "Gregorian Reforms",
+    "description": "",
+    "type": "religion",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1054",
+    "event": "East-West Schism",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1076",
+    "event": "Investiture Controversy",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1099",
+    "event": "First Crusade",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1145",
+    "event": "Second Crusade",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1184",
+    "event": "Episcopal Inquisition",
+    "description": "",
+    "type": "religion",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1187",
+    "event": "Third Crusade",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1202",
+    "event": "Fourth Crusade",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1378",
+    "event": "Western Schism",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1415",
+    "event": "Jan Hus executed",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1478",
+    "event": "Spanish Inquisition begins",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1517",
+    "event": "Luther publishes Ninety-Five Theses",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1534",
+    "event": "Church of England founded",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1536",
+    "event": "Institutes of the Christian Religion (Calvin)",
+    "description": "",
+    "type": "religion",
+    "hidden": "TRUE"
+  },
+  {
+    "date": "1633",
+    "event": "Trial of Galileo",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1662",
+    "event": "Puritans ejected from England",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1686",
+    "event": "Russian Orthodox Church founded",
+    "description": "",
+    "type": "religion",
+    "hidden": ""
+  },
+  {
+    "date": "1543",
+    "event": "Copernicus proposes heliocentrism",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1620",
+    "event": "Francis Bacon describes the scientific method",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1665",
+    "event": "First peer-reviewed journal",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1675",
+    "event": "Leibniz or Newton create calculus",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1687",
+    "event": "Newton describes gravity and laws of motion",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1752",
+    "event": "Ben Franklin discovers electricity",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1776",
+    "event": "Adam Smith creates economics",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1854",
+    "event": "Lord Kelvin creates thermodynamics",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1859",
+    "event": "Charles Darwin writes about evolution",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1869",
+    "event": "Mendeleev creates the periodic table",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1899",
+    "event": "Freud establishes psychoanalysis",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1905",
+    "event": "Einstein describes special relativity",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1917",
+    "event": "Rutherford confirms the atomic structure",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1928",
+    "event": "Fleming creates penicillin",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1942",
+    "event": "Manhattan project develops the atom bomb",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1948",
+    "event": "Feynman creates quantum electrodynamics",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  },
+  {
+    "date": "1953",
+    "event": "Watson and Crick describe shape of DNA",
+    "description": "",
+    "type": "science",
+    "hidden": ""
+  }
+]

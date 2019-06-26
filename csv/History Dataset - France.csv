@@ -1,0 +1,202 @@
+name,image,house,houseImage,start,end,endReason,religion,JA_events,JA_wars,JA_relationships,border
+Pepin the Short,img/france/pepin_the_short.jpg,Carolingian,img/houses/carolingian.png,751,768,"Unspecified, 54",Roman Catholic,"Pushed out powerless Merovingian king with blessing of Pope|
+Donated Lombardi land to the pope, establishing Papal States|
+Annointed Patrician of the Romans by Pope Stephen II","Lombards, 751|
+Islamic Umayaads, 752-9|
+Aquitaine, 760-7",,img/borders/france/768.jpg
+Carloman I,img/france/carloman_i.jpg,Carolingian,img/houses/carolingian.png,768,771,"Nosebleed, 20",Roman Catholic,"Received the eastern part of Pepin's lands|
+Competed against Charlemagne for complete control of territory|
+After death, Charlemagne annexed his territory as sole ruler",,,img/borders/france/768.jpg
+Charlemagne,img/france/charlemagne.jpg,Carolingian,img/houses/carolingian.png,768,814,"Pleurisy, 65",Roman Catholic,"Conquered and Christianized the Saxons and Frisians|
+Invaded Italy on appeal from Pope, assuming Lombard crown|
+Crowned Emperor of the Romans for securing Christian borders","Lombards, 772-774|
+Umayaad Caliphate, 785-811|
+Saxon Wars, 772-804","Lombards, Desiderius, Father-in-law, img/italy/desiderius.jpg",img/borders/france/814.jpg
+Louis the Pious,img/france/louis_the_pious.jpg,Carolingian,img/houses/carolingian.png,814,840,"Unspecified, 61",Roman Catholic,"As king of Aquitaine, served as co-emperor with his father|
+Attempted to keep empire together and repeal debauchery|
+Upon his death, civil war broke out and empire split three ways","Umayaad Caliphate, 801","Bavaria, Welf, Father-in-law, img/hre/welf_i.jpg",img/borders/france/840.jpg
+Charles the Bald,img/france/charles_the_bald.jpg,Carolingian,img/houses/carolingian.png,843,877,"Illness, 54",Roman Catholic,"Received western part of father's empire inTreaty of Verdun|
+Lost Brittany but won the Aquitaine and western Lorraine|
+Crowned Emperor of the Romans after death of nephew Louis II","Carolingian Civil War, 840-3",,img/borders/france/877.jpg
+Louis II,img/france/louis_the_stammerer.jpg,Carolingian,img/houses/carolingian.png,877,879,"Unspecified, 32",Roman Catholic,"Declined the crown of Emperor of the Romans|
+Agreed to truce with ruler of East Francia, Louis the Younger|
+After death, land divided between sons Carloman II and Louis III",,,img/borders/france/879.jpg
+Louis III,img/france/louis_iii.jpg,Carolingian,img/houses/carolingian.png,879,882,"Injury, 18",Roman Catholic,"Received Neustria and Francia from father Louis II|
+With brother Carloman II, repelled Scandinavian invaders|
+Ceded western Lotharingia to Louis the Younger of East Francia",,,img/borders/france/879.jpg
+Carloman II,img/france/carloman_ii.jpg,Carolingian,img/houses/carolingian.png,879,884,"Hunting, 18",Roman Catholic,"Received Burgundy & Aquitaine from father Louis II|
+Tried unsuccessfully to defeat usurper of Provence, Boso",,,img/borders/france/879.jpg
+Charles the Fat,img/france/charles_the_fat.jpg,Carolingian,img/houses/carolingian.png,884,888,"Illness, 48",Roman Catholic,"Received East Francia after death of brother, Louis the Younger|
+Received West Francia after deaths of Louis and Carloman|
+Seen as incompetent, deposed in East Francia by Arnulf",,,img/borders/france/879.jpg
+Odo,img/france/odo.png,Robertian,,888,898,"Unspecified, 41",Roman Catholic,"As Count of Paris, successfully defended against viking raiders|
+Elected King of the Franks after deposition of Charles the Fat|
+First king who was not of Merovingian or Carolingian blood",,,img/borders/france/879.jpg
+Charles III,img/france/charles_iii.jpg,Carolingian,img/houses/carolingian.png,898,922,Deposed,Roman Catholic,"Ceded Normandy to Vikings in return for conversion and fealty|
+Received Lotharingia after death of Louis the Child|
+Killed usurper Robert but taken prisoner by Robert's son-in-law",,,img/borders/france/879.jpg
+Robert I,img/france/robert_i.jpg,Robertian,,922,923,"Battle, 57",Roman Catholic,"Younger brother to Odo, defeated Northmen at Chartres|
+Elected king with support of dissident nobles and East Francia|
+Victorious at Battle of Soissons but killed in the battle",,,img/borders/france/879.jpg
+Rudolph,img/france/rudolph.jpg,Bosonid,,923,936,"Illness, 45",Roman Catholic,"Son-in-law of Robert I, who was killed overthrowing Charles III|
+Made peace with Normans, granting them the Channel Islands|
+Lost Lorraine to Henry I and Laon to Herbert, captor of Charles","East Francia, 923|
+Normandy, 924",,img/borders/france/879.jpg
+Louis IV,img/france/louis_iv.png,Carolingian,img/houses/carolingian.png,936,954,"Injury, 33",Roman Catholic,"Spent his reign stuggling against vassal, Hugh the Great|
+Defended against invasion by Hugh who had support of Otto I|
+Captured and imprisoned by Hugh, who was excommunicated","East Francia, 939-940|
+Normandy, 945","England, Edward the Elder, Grandfather, img/england/edward_the_elder.jpg|
+Germany, Otto I, Brother-in-law, img/hre/otto_i.jpg",img/borders/france/879.jpg
+Lothair III,img/france/lothair_iii.jpg,Carolingian,img/houses/carolingian.png,954,986,"Unspecified, 44",Roman Catholic,"Broke German alliance and spent reign fighting over Lorraine|
+Attempted to capture Otto II's family, prompting German Invasion|
+Defended with help of Hugh Capet, grandson of Hugh the Great","Holy Roman Empire, 978-980","Saxony, Gerberga, Mother, img/hre/gerberga.jpg|
+Holy Roman Empire, Otto I, Uncle, img/hre/otto_i.jpg|
+Italy, Emma, Wife, img/italy/emma.jpg",img/borders/france/879.jpg
+Louis V,img/france/louis_v.jpg,Carolingian,img/houses/carolingian.png,986,987,"Hunting, 20",Roman Catholic,"Married widow of Aquitaine but lost it and failed to retake it|
+Unpopular uncle, Charles, passed over in favor of Hugh Capet|
+Last Carolingian King of Francia",,,img/borders/france/879.jpg
+Hugh Capet,img/france/hugh_capet.jpg,Capet,img/houses/capet.png,987,996,"Unspecified, 56",Roman Catholic,"First of a direct line of 15 Capetian kings of France|
+Son of Hugh the Great and grandson of Robert I|
+Faced internal struggles, but son acceeded without difficulty",,"Holy Roman Empire, Otto I, Uncle, img/hre/otto_i.jpg",img/borders/france/879.jpg
+Robert II,img/france/robert_ii.jpg,Capet,img/houses/capet.png,996,1031,"Battle, 59",Roman Catholic,"Brought Burgundy back under Frankish control for brief period|
+Pressed claim to fiefs as they became vacant, consolidating hold","Burgundy, 1003-1016","Italy, Rozala, Wife, img/italy/rozala.jpg",img/borders/france/879.jpg
+Henry I,img/france/henry_i.jpg,Capet,img/houses/capet.png,1031,1060,"Unspecified, 52",Roman Catholic,"Favored then fought William the Conquerer, Duke of Normandy|
+Signed decree of friendship with Henry III, Holy Roman Emperor|
+Civil war fought with younger brother, who was given Burgundy","Normandy, 1054-1057","England, William the Conquerer, Nephew, img/england/william_the_conquerer.png|
+Russia, Yaroslav the Wise, Father-in-law, img/russia/yaroslav.jpg",img/borders/france/879.jpg
+Philip I,img/france/philip_i.jpg,Capet,img/houses/capet.png,1060,1108,"Unspecified, 56",Roman Catholic,"Supported Robert Curthose, Duke of Normandy, against England|
+Drawn into conflict with papacy for selling ecclesiastical positions|
+Added the Vexin and Bourges to Frankish rule","England, 1077","Flanders, Bertha, Wife, img/france/bertha.jpg",img/borders/france/1108.jpg
+Louis VI,img/france/louis_vi.jpg,Capet,img/houses/capet.png,1108,1137,"Dysentary, 55",Roman Catholic,"Contested the Vexin against Henry I of England|
+Repelled German invasion, who marched under French banner|
+Added Aquitaine to Francia by marrying Eleanor to his son","England, 1109-1120",,img/borders/france/1137.jpg
+Louis VII,img/france/louis_vii.jpg,Capet,img/houses/capet.png,1137,1180,"Illness, 59",Roman Catholic,"Marriage to Eleanor annulled, losing Aquitaine to England|
+Fought Henry II, Duke of Normandy and later King of England|
+Supported English Thomas Becket, Archbishop of Canterbury",,"Aquitaine, Eleanor, Wife, img/france/eleanor.jpg|
+Castille, Constance, Wife, img/spain/constance.jpg",img/borders/france/1180.jpg
+Philip II,img/france/philip_ii.jpg,Capet,img/houses/capet.png,1180,1223,"Unspecified, 57",Roman Catholic,"Participated in Third Crusade with Richard I of England|
+Reclaimed French land from Angevin Empire of John I|
+Left France rich, paving the way for greatness in 13th century","Anglo-French War, 1202-1214|
+Albisengian Crusade, 1209-","Denmark, Ingeborg, Wife, img/denmark/ingeborg.jpg",img/borders/france/1223.jpg
+Louis VIII,img/france/louis_viii.jpg,Capet,img/houses/capet.png,1223,1226,"Dysentary, 39",Roman Catholic,"Offered English throne by rebellious English barons|
+Recaptured fortress of Avignon from Albigensian heretics|
+Developed concept of fealty sworn to throne, not the individual","Albisengian Crusade, 1223-","Castille, Blanche, Wife, img/spain/blanche.jpg",img/borders/france/1226.jpg
+Louis IX,img/france/louis_ix.jpg,Capet,img/houses/capet.png,1226,1270,"Dysentary, 56",Roman Catholic,"Prevented English Henry III from reclaiming Angevin land|
+Created provosts, bailiffs, and presumption of innocence|
+Captured and ransomed during Seventh Crusade","Saintonge War, England, 1242",,img/borders/france/1270.jpg
+Philip III,img/france/philip_iii.jpg,Capet,img/houses/capet.png,1270,1285,"Dysentary, 40",Roman Catholic,"Annexed Toulouse to the French crown|
+Married son to heiress of Navarre, Champagne, and Brie|
+Fought the Aragonese, who opposed Angevin rule of Sicily","War of the Sicilian Vespers, 1282","Sicily, Charles I, Uncle, img/italy/charles_i.jpg",img/borders/france/1285.jpg
+Philip IV,img/france/philip_iv.jpg,Capet,img/houses/capet.png,1285,1314,"Stroke, 46",Roman Catholic,"Fought England over Gascony and later Flanders for treachery|
+Clement V, a Gascon, moved papacy from Rome to Avignon|
+Attempted to have brother and son elected Holy Roman Emperor","Franco-Flemish War, 1297-1305","Navarre, Joan, Wife, img/spain/joan_navarre.jpg",img/borders/france/1314.jpg
+Louis X,img/france/louis_x.jpg,Capet,img/houses/capet.png,1314,1316,"Pneumonia, 26",Roman Catholic,"Married daughter of Burgundy, who he imprisoned for adultery|
+Allowed serfs to buy freedom, beginning the end of serfdom|
+Attempted to raise money through charters to fund Flemish war",,,img/borders/france/1314.jpg
+John I,img/france/john_i.jpg,Capet,img/houses/capet.png,1316,1316,"Unspecified, 5 days",Roman Catholic,"Born posthumously to Louis X|
+Died 5 days after birth, with throne going to uncle Philip V",,,img/borders/france/1314.jpg
+Philip V,img/france/philip_v.jpg,Capet,img/houses/capet.png,1316,1322,"Dysentary, 29",Roman Catholic,"Succession of Philip, over neice, set precedent for Salic law|
+Created independent Court of Finances and single currency|
+Created standardization of weights and measures",,,img/borders/france/1322.jpg
+Charles IV,img/france/charles_iv_and_i.jpg,Capet,img/houses/capet.png,1322,1328,"Unspecified, 33",Roman Catholic,"Invaded the Aquitaine, held by his vassal Edward II of England|
+Failed in bid for German throne and acquisition of Flanders|
+Died without heir, ending Capetian line, succeeded by cousin","War of Saint-Sardos, 1324","England, Edward II, Brother-in-law, img/england/edward_ii.jpg|
+Holy Roman Empire, Henry VII, Father-in-law, img/hre/henry_vii.jpg",img/borders/france/1322.jpg
+Philip VI,img/france/philip_vi.jpg,Valois,img/houses/valois.png,1328,1350,"Unspecified, 56",Roman Catholic,"Gave Artois to his kin, fomenting discontent among his nobles|
+Resentment carried to Edward III, who had a claim to throne|
+Purchased Dauphiné but left France divided by war and plague","Hundred Years' War, 1337-1453","England, Edward III, Nephew, img/england/edward_iii.png",img/borders/france/1350.jpg
+John II,img/france/john_ii.jpg,Valois,img/houses/valois.png,1350,1364,"Illness, 44",Roman Catholic,"Inherited English war, breaking a truce and then losing terribly|
+Defeated and taken prisoner at Poitiers by The Black Prince|
+Released for hostages, returned to England when one escaped","Hundred Years' War, 1337-1453","Holy Roman Empire, Bonne, Wife, img/hre/bonne_of_luxembourg.jpg",img/borders/france/1364.jpg
+Charles V,img/france/charles_v.jpg,Valois,img/houses/valois.png,1364,1380,"Infection, 42",Roman Catholic,"Treaty of Calais had granted southwestern France to Edward III|
+Recaptured all ceded territories and dispossesed King of Navarre|
+Support of Clement VII led to the great schism of the papacy","Hundred Years' War, 1337-1453",,img/borders/france/1379.jpg
+Charles VI,img/france/charles_vi.jpg,Valois,img/houses/valois.png,1380,1422,"Unspecified, 53",Roman Catholic,"Attempted to install Avignon antipope Clement VII in Rome|
+Went mad, after which Burgundy and Orleans vied for power|
+After defeat at Agincourt, named Henry V of England his heir","Hundred Years' War, 1337-1453|
+Armagnac-Burgundian Civil War","Holy Roman Empire, Isabeau, Wife, img/hre/isabeau_bavaria.jpg",img/borders/france/1422.jpg
+Charles VII,img/france/charles_vii.jpg,Valois,img/houses/valois.png,1422,1461,"Infection, 58",Roman Catholic,"Disinherited by father in favor of Henry V of England|
+Reclaimed Paris and northern France with help of Joan of Arc|
+Ended the civil war between houses of Valois and Orleans","Hundred Years' War, 1337-1453|
+Armagnac-Burgundian Civil War",,img/borders/france/1461.jpg
+Louis XI,img/france/louis_xi.jpg,Valois,img/houses/valois.png,1461,1483,"Arteriosclerosis, 60",Roman Catholic,"Faced an alliance of Burgundy, Brittany, and England|
+Dismantled alliance, finally killing Duke of Burgundy in battle|
+Ended reign with Burgundy, Picardy, Boulonnais, and Artois","Praguerie, France, 1440","Italy, Charlotte of Savoy, Wife, img/italy/charlotte_savoy.jpg",img/borders/france/1483.jpg
+Charles VIII,img/france/charles_viii.jpg,Valois,img/houses/valois.png,1483,1498,"Injury, 27",Roman Catholic,"Married Anne of Brittany to prevent encirclement by Habsburgs|
+Forfeited Artois and Franche-Comté acquired through Margaret|
+Pressed claim on Angevin Naples, triggering Italian Wars","Mad War, France, 1485-8|
+Italian Wars, Italy, 1494-8","Holy Roman Empire, Margaret of Austria, Betrothed, img/hre/margaret_of_austria.jpg|
+Brittany, Anne, Wife, img/france/anne_of_brittany.jpg|
+Naples, Marie of Anjou, Grandmother, img/italy/marie_of_anjou.jpg",img/borders/france/1483.jpg
+Louis XII,img/france/louis_xii.jpg,Valois-Orleans,img/houses/valois.png,1498,1515,"Gout, 52",Roman Catholic,"Duke of Orleans, second-cousin and brother-in-law to king|
+Conquered Milan but lost Naples to Ferdinand II of Aragon|
+Defeated in Milan & Artois by Swiss and Burgundy by Henry VIII","Second Italian War, 1499-1504|
+Third Italian War, 1508-16","Brittany, Anne, Wife, img/france/anne_of_brittany.jpg|
+England, Mary Tudor, Wife, img/england/mary_tudor.jpg",img/borders/france/1483.jpg
+Francis I,img/france/francis_i.jpg,Valois-Angouleme,img/houses/valois.png,1515,1547,"Unspecified, 52",Roman Catholic,"Cousin and son-in-law to Louis XII, first of Angoulême branch|
+Defeated Milan; with riches, copied an Italian renaissance court|
+Imprisoned by Emperor Charles V, gave up Italy for his release","Italian Wars, Venice, 1508-16","Scotland, James V, Son-in-law, img/scotland/james_v.jpg|
+Italy, Duke of Savoy, Son-in-law, img/italy/emmanuel_of_savoy.jpg",img/borders/france/1547.jpg
+Henry II,img/france/henry_ii.jpg,Valois-Angouleme,img/houses/valois.png,1547,1559,"Jousting, 40",Roman Catholic,"Developed a court system between local justices and high court|
+Supported German Protestants against Emperor Charles V|
+Systematically persecuted French Protestants","Italian Wars, 1551-9","Florence, Catherine de' Medici, Wife, img/italy/catherine_de_medici.jpg",img/borders/france/1547.jpg
+Francis II,img/france/francis_ii.jpg,Valois-Angouleme,img/houses/valois.png,1559,1560,"Ear condition, 16",Roman Catholic,"Used by the Guises, wife's uncle, to quell the Huguenot forces|
+Faced capture by Huguenot Bourbons to end Guise influence|
+Forced to sign Treaty of Edinburgh: end of Scottish influence","French Wars of Religion, 1562-98","Scotland, Mary Queen of Scots, Wife, img/scotland/mary.jpg|
+Florence, Catherine de' Medici, Mother, img/italy/catherine_de_medici.jpg",img/borders/france/1560.jpg
+Charles IX,img/france/charles_ix.jpg,Valois-Angouleme,img/houses/valois.png,1560,1574,"Tuberculosis, 23",Roman Catholic,"Planned intervention on behalf of Protestants against Spain|
+Remained under influence of mother, Catherine de Medicis|
+On her advice, allowed a massacre of 3,000 Protestants in Paris","French Wars of Religion, 1562-98","Florence, Catherine de' Medici, Mother, img/italy/catherine_de_medici.jpg|
+Holy Roman Empire, Maximilian II, Father-in-law, img/hre/maximillian_ii.jpg",img/borders/france/1560.jpg
+Henry III,img/france/henry_iii.jpg,Valois-Angouleme,img/houses/valois.png,1574,1589,Assassinated,Roman Catholic,"Placed on Polish throne by mother, resigned when brother died|
+Holy League formed against Huguenot successor, Henry IV|
+Forced by League, which had rebelled, into alliance with Henry","French Wars of Religion, 1562-98|
+War of the Three Henrys, 1587-9",,img/borders/france/1560.jpg
+Henry IV,img/france/henry_iv.jpg,Bourbon,img/houses/bourbon.png,1589,1610,Assassinated,"Protestant, then Catholic","First Bourbon, leader of Huguenot forces as King of Navarre|
+Huguenots massacred on the day of his appeasement marriage|
+Fought Holy League but converted to claim and unify the throne","French Wars of Religion, 1562-98|
+Franco-Spanish War, 1595-8|
+Franco-Savoyard War, 1600-1","Florence, Marie de Medici, Wife, img/italy/marie_de_medici.jpg",img/borders/france/1560.jpg
+Louis XIII,img/france/louis_xiii.jpg,Bourbon,img/houses/bourbon.png,1610,1643,"Tuberculosis, 41",Roman Catholic,"While wars of religion had ended, still faced Huguenot rebellions|
+Invading Italy, France entered Thirty Years War against Spain|
+Defeated Spain, establishing France as a global superpower","Thirty Years' War, 1635-48","Spain, Anne of Austria, Wife, img/spain/anne_of_austria.jpg",img/borders/france/1643.jpg
+Louis XIV,img/france/louis_xiv.jpg,Bourbon,img/houses/bourbon.png,1643,1715,"Gangrene, 76",Roman Catholic,"Extended eastern borders at the expense of Austrian Habsburgs|
+Defeated hostile Spanish coalition to secure throne for grandson|
+Known as the Sun King, led a revival of culture and grandeur","Franco-Dutch War, 1672-8|
+Nine Years' War, 1688-97|
+War of the Spanish Succession","Spain, Maria Theresa, Wife, img/spain/maria_theresa.jpg",img/borders/france/1715.jpg
+Louis XV,img/france/louis_xv.jpg,Bourbon,img/houses/bourbon.png,1715,1774,"Smallpox, 64",Roman Catholic,"Lost all colonial possessions in Americans and India to British|
+Gained nothing from Austria or Russia during partition of Poland|
+Through ineffective wars, set the stage for the French Revolution","War of Polish Succession, 1733|
+War of Austrian Succession, 1740|
+Seven Years' War, 1756-1763","Poland, Stanislaw I, Father-in-law, img/poland/stanislaw.jpg",img/borders/france/1715.jpg
+Louis XVI,img/france/louis_xvi.jpg,Bourbon,img/houses/bourbon.png,1774,1792,Executed,Roman Catholic,"Financed American revolution, leaving country deeply in debt|
+Forced to accept National Assembly and constitutional monarchy|
+Soliciting intervention, convicted of treason by French Republic","American Revolution, 1776-1783|
+French Revolution, 1789-1792","Holy Roman Empire, Maria Josepha of Saxony, Mother, img/hre/maria_josepha.jpg|
+Holy Roman Empire, Marie Antoinette, Wife, img/hre/marie_antoinette.jpg",img/borders/france/1792.jpg
+Napoleon I,img/france/napoleon_i.jpg,Bonaparte,img/houses/bonaparte.png,1804,1814,Abdicated,Deist,"Rose from soldier to general to consul to emperor over 11 years|
+Defeated series of coalitions, collapsing the Holy Roman Empire|
+Lost army invading Russia, turning tide and was exiled to Elba","French Revolution, 1787-92|
+Napoleonic Wars, 1803-15","Spain, Joseph Bonaparte, Brother, img/spain/joseph_bonaparte.jpg|
+Austria, Francis I, Father-in-law, img/hre/francis_ii.jpg",img/borders/france/1812.jpg
+Louis XVIII,img/france/louis_xviii.jpg,Bourbon,img/houses/bourbon.png,1814,1815,Deposed,Roman Catholic,"Exiled in revolution, wandered Europe promoting royalist cause|
+As Napoleon fell, promised to honor the republic's reforms|
+Restored by Talleyrand, coalition, and war-weary Parisians",,"Savoy, Marie Josephine, Wife, img/italy/marie_josephine.jpg",img/borders/france/1815.jpg
+Napoleon I ,img/france/napoleon_i.jpg,Bonaparte,img/houses/bonaparte.png,1815,1815,Deposed,Deist,"Frustrated by Bourbon Restoration and Congress of Vienna|
+Escaped, gathered forces, and marched on Paris to applause|
+Defeated at Waterloo by coalition and banished to St. Helena","War of the 7th Coalition, 1815","Spain, Joseph Bonaparte, Brother, img/spain/joseph_bonaparte.jpg|
+Austria, Francis I, Father-in-law, img/hre/francis_ii.jpg",img/borders/france/1815.jpg
+Louis XVIII ,img/france/louis_xviii.jpg,Bourbon,img/houses/bourbon.png,1815,1824,"Gout, 68",Roman Catholic,"Fled during the Hundred Day's War, returning after Waterloo|
+Gave Parliament control over laws and budget with his approval|
+Resisted the ultraroyalists in favor of healing the country",,"Savoy, Marie Josephine, Wife, img/italy/marie_josephine.jpg",img/borders/france/1815.jpg
+Charles X,img/france/charles_x.jpg,Bourbon,img/houses/bourbon.png,1824,1830,Deposed,Roman Catholic,"Reimposed death penaly for sacrilege during first government|
+In second government, supported ultraroyalist clericalists|
+Deposed, naming grandson heir and Louis-Philippe general","French conquest of Algeria, 1830","Savoy, Marie Theresa, Wife, img/italy/marie_therese.jpg",img/borders/france/1815.jpg
+Louis Philippe I,img/france/louis_philippe.jpg,Orleans,img/houses/orleans.png,1830,1848,Deposed,Roman Catholic,"Popular with republicans and Bonaparists, given a vacant throne|
+Seen as a citizen king, favored the bourgeoisie over aristocracy|
+Refusing any election reform, deposed in 1848 wave of socialism",,"Belgians, Leopold I, Son-in-law, img/belgians/leopold_i.jpg",img/borders/france/1848.jpg
+Napoleon III,img/france/napoleon_iii.jpg,Bonaparte,img/houses/bonaparte.png,1852,1870,Deposed,Roman Catholic,"Elected President of Second Republic after Revolution of 1848|
+Declared himself Emperor under the Second French Empire|
+Deposed after defeat in the Franco-Prussian War","Crimean War, Russia, 1853-6|
+Franco-Prussian War, 1870",,img/borders/france/1870.jpg
