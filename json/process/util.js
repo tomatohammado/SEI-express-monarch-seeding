@@ -11,5 +11,8 @@ module.exports = {
     "Russia",
     "Scotland",
     "Spain"
-  ]
+  ],
+  baseUrls: {
+    wikipedia: "https://en.wikipedia.org/api/rest_v1/page/summary"
+  }
 };

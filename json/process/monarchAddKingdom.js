@@ -3,7 +3,7 @@ const fs = require("fs");
 const { kingdoms } = require("./util");
 
 kingdoms.forEach(kingdom => {
-  const kingdomFilename = kingdom.toLocaleLowerCase().replace(/ /g, "-");
+  const kingdomFilename = kingdom.toLowerCase().replace(/ /g, "-");
   let kingdomData = fs.readFileSync(
     `./json/monarchs/raw/${kingdomFilename}.json`,
     "utf8"
@@ -21,7 +21,7 @@ kingdoms.forEach(kingdom => {
     JSON.stringify(kingdomData),
     err => {
       if (err) throw err;
-      console.log(`Finish processing: ${kingdom}`);
+      console.log(`Finish writing data: ${kingdom}`);
     }
   );
 });
