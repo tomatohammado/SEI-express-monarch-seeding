@@ -1,0 +1,594 @@
+[
+  {
+    "type": "standard",
+    "title": "Austria",
+    "displaytitle": "Austria",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q40",
+    "titles": {
+      "canonical": "Austria",
+      "normalized": "Austria",
+      "display": "Austria"
+    },
+    "pageid": 26964606,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/320px-Flag_of_Austria.svg.png",
+      "width": 320,
+      "height": 213
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+      "width": 900,
+      "height": 600
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903552311",
+    "tid": "2756a2a0-97fd-11e9-9d11-991571facf14",
+    "timestamp": "2019-06-26T10:28:09Z",
+    "description": "Federal republic in Central Europe",
+    "coordinates": { "lat": 47.33333333, "lon": 13.33333333 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Austria",
+        "revisions": "https://en.wikipedia.org/wiki/Austria?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Austria?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Austria"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Austria",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Austria",
+        "edit": "https://en.m.wikipedia.org/wiki/Austria?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Austria"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Austria",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Austria",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Austria",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Austria",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Austria",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Austria"
+    },
+    "extract": "Austria, officially the Republic of Austria, is a country in Central Europe comprising nine federated states. Its capital, largest city and one of nine states is Vienna. Austria has an area of 83,879 km2 (32,386 sq mi), a population of nearly nine million people and a nominal GDP of $477 billion. It is bordered by the Czech Republic and Germany to the north, Hungary and Slovakia to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The terrain is landlocked and highly mountainous, lying within the Alps; only 32% of the country is below 500 m (1,640 ft), and its highest point is 3,798 m (12,461 ft). The majority of the population speaks local Bavarian dialects as their native language, and German in its standard form is the country's official language. Other regional languages are Hungarian, Burgenland Croatian, and Slovene.",
+    "extract_html": "<p><b>Austria</b>, officially the <b>Republic of Austria</b>, is a country in Central Europe comprising nine federated states. Its capital, largest city and one of nine states is Vienna. Austria has an area of 83,879 km<sup>2</sup> (32,386 sq mi), a population of nearly nine million people and a nominal GDP of $477 billion. It is bordered by the Czech Republic and Germany to the north, Hungary and Slovakia to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The terrain is landlocked and highly mountainous, lying within the Alps; only 32% of the country is below 500 m (1,640 ft), and its highest point is 3,798 m (12,461 ft). The majority of the population speaks local Bavarian dialects as their native language, and German in its standard form is the country's official language. Other regional languages are Hungarian, Burgenland Croatian, and Slovene.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "Denmark",
+    "displaytitle": "Denmark",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q35",
+    "titles": {
+      "canonical": "Denmark",
+      "normalized": "Denmark",
+      "display": "Denmark"
+    },
+    "pageid": 76972,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/320px-Flag_of_Denmark.svg.png",
+      "width": 320,
+      "height": 242
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+      "width": 740,
+      "height": 560
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903523182",
+    "tid": "fa60b610-97ce-11e9-b97d-07b6626e2759",
+    "timestamp": "2019-06-26T04:57:13Z",
+    "description": "Constitutional monarchy in Europe",
+    "coordinates": { "lat": 56, "lon": 10 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Denmark",
+        "revisions": "https://en.wikipedia.org/wiki/Denmark?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Denmark?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Denmark"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Denmark",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Denmark",
+        "edit": "https://en.m.wikipedia.org/wiki/Denmark?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Denmark"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Denmark",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Denmark",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Denmark",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Denmark",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Denmark",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Denmark"
+    },
+    "extract": "Denmark, officially the Kingdom of Denmark, is a sovereign state and Nordic country in the Scandinavian region of Northern Europe. Denmark proper consists of a peninsula, Jutland, and an archipelago of 443 named islands, with the largest being Zealand, Funen and the North Jutlandic Island. The islands are characterised by flat, arable land and sandy coasts, low elevation and a temperate climate. The southernmost of the Scandinavian nations, Denmark lies southwest of Sweden and south of Norway, and is bordered to the south by Germany. The Kingdom of Denmark also comprises two autonomous constituent countries in the North Atlantic Ocean: the Faroe Islands and Greenland. Denmark has a total area of 42,924 km2 (16,573 sq mi), land area of 42,394 km2 (16,368 sq mi), and the total area including Greenland and the Faroe Islands is 2,210,579 km2 (853,509 sq mi), and a population of 5.8 million.",
+    "extract_html": "<p><b>Denmark</b>, officially the <b>Kingdom of Denmark</b>, is a sovereign state and Nordic country in the <span class=\"mw-disambig\">Scandinavian</span> region of Northern Europe. Denmark proper consists of a peninsula, Jutland, and an archipelago of 443 named islands, with the largest being Zealand, Funen and the North Jutlandic Island. The islands are characterised by flat, arable land and sandy coasts, low elevation and a temperate climate. The southernmost of the Scandinavian nations, Denmark lies southwest of Sweden and south of Norway, and is bordered to the south by Germany. The Kingdom of Denmark also comprises two autonomous constituent countries in the North Atlantic Ocean: the Faroe Islands and Greenland. Denmark has a total area of 42,924 km<sup>2</sup> (16,573 sq mi), land area of 42,394 km<sup>2</sup> (16,368 sq mi), and the total area including Greenland and the Faroe Islands is 2,210,579 km<sup>2</sup> (853,509 sq mi), and a population of 5.8 million.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "England",
+    "displaytitle": "England",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q21",
+    "titles": {
+      "canonical": "England",
+      "normalized": "England",
+      "display": "England"
+    },
+    "pageid": 9316,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png",
+      "width": 320,
+      "height": 192
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+      "width": 800,
+      "height": 480
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903423602",
+    "tid": "b3b42e60-9826-11e9-b175-f3cedb8a688c",
+    "timestamp": "2019-06-25T16:30:45Z",
+    "description": "Country in north-west Europe, part of the United Kingdom",
+    "coordinates": { "lat": 51.5, "lon": -0.11666667 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/England",
+        "revisions": "https://en.wikipedia.org/wiki/England?action=history",
+        "edit": "https://en.wikipedia.org/wiki/England?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:England"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/England",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/England",
+        "edit": "https://en.m.wikipedia.org/wiki/England?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:England"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/England",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/England",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/England",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/England",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/England",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:England"
+    },
+    "extract": "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north. The Irish Sea lies west of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight.",
+    "extract_html": "<p><b>England</b> is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north. The Irish Sea lies west of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "France",
+    "displaytitle": "France",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q142",
+    "titles": {
+      "canonical": "France",
+      "normalized": "France",
+      "display": "France"
+    },
+    "pageid": 5843419,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png",
+      "width": 320,
+      "height": 213
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+      "width": 900,
+      "height": 600
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903369953",
+    "tid": "a078e950-972a-11e9-be66-293bb2f06a7e",
+    "timestamp": "2019-06-25T09:20:42Z",
+    "description": "Republic with mainland in Europe and numerous oversea territories",
+    "coordinates": { "lat": 47, "lon": 2 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/France",
+        "revisions": "https://en.wikipedia.org/wiki/France?action=history",
+        "edit": "https://en.wikipedia.org/wiki/France?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:France"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/France",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/France",
+        "edit": "https://en.m.wikipedia.org/wiki/France?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:France"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/France",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/France",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/France",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/France",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/France",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:France"
+    },
+    "extract": "France, officially the French Republic, is a country whose territory consists of metropolitan France in Western Europe and several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. It is bordered by Belgium, Luxembourg and Germany to the northeast, Switzerland and Italy to the east, and Andorra and Spain to the south. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions span a combined area of 643,801 square kilometres (248,573 sq mi) and a total population of 67.0 million. France, a sovereign state, is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice.",
+    "extract_html": "<p><b>France</b>, officially the <b>French Republic</b>, is a country whose territory consists of metropolitan France in Western Europe and several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. It is bordered by Belgium, Luxembourg and Germany to the northeast, Switzerland and Italy to the east, and Andorra and Spain to the south. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions span a combined area of 643,801 square kilometres (248,573 sq mi) and a total population of 67.0 million. France, a sovereign state, is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "Germany",
+    "displaytitle": "Germany",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q183",
+    "titles": {
+      "canonical": "Germany",
+      "normalized": "Germany",
+      "display": "Germany"
+    },
+    "pageid": 11867,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png",
+      "width": 320,
+      "height": 192
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+      "width": 1000,
+      "height": 600
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903429164",
+    "tid": "069dff60-980f-11e9-9323-5332c4dbb142",
+    "timestamp": "2019-06-25T17:03:36Z",
+    "description": "Federal parliamentary republic in central-western Europe",
+    "coordinates": { "lat": 51, "lon": 9 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Germany",
+        "revisions": "https://en.wikipedia.org/wiki/Germany?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Germany?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Germany"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Germany",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Germany",
+        "edit": "https://en.m.wikipedia.org/wiki/Germany?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Germany"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Germany",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Germany",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Germany",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Germany",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Germany",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Germany"
+    },
+    "extract": "Germany, officially the Federal Republic of Germany, is a country in Central and Western Europe, lying between the Baltic and North Seas to the north, and the Alps, Lake Constance and the High Rhine to the south. It borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, France to the southwest, and Luxembourg, Belgium and the Netherlands to the west.",
+    "extract_html": "<p><b>Germany</b>, officially the <b>Federal Republic of Germany</b>, is a country in Central and Western Europe, lying between the Baltic and North Seas to the north, and the Alps, Lake Constance and the High Rhine to the south. It borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, France to the southwest, and Luxembourg, Belgium and the Netherlands to the west.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "Holy Roman Empire",
+    "displaytitle": "Holy Roman Empire",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q12548",
+    "titles": {
+      "canonical": "Holy_Roman_Empire",
+      "normalized": "Holy Roman Empire",
+      "display": "Holy Roman Empire"
+    },
+    "pageid": 13277,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Banner_of_the_Holy_Roman_Emperor_with_haloes_%281400-1806%29.svg/320px-Banner_of_the_Holy_Roman_Emperor_with_haloes_%281400-1806%29.svg.png",
+      "width": 320,
+      "height": 213
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Banner_of_the_Holy_Roman_Emperor_with_haloes_%281400-1806%29.svg",
+      "width": 900,
+      "height": 600
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903459647",
+    "tid": "f4cbe3a0-9788-11e9-ab35-77880b69911d",
+    "timestamp": "2019-06-25T20:36:32Z",
+    "description": "Varying complex of lands that existed from 962 to 1806 in Central Europe",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+        "revisions": "https://en.wikipedia.org/wiki/Holy_Roman_Empire?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Holy_Roman_Empire?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Holy_Roman_Empire"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Holy_Roman_Empire",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Holy_Roman_Empire",
+        "edit": "https://en.m.wikipedia.org/wiki/Holy_Roman_Empire?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Holy_Roman_Empire"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Holy_Roman_Empire",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Holy_Roman_Empire",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Holy_Roman_Empire",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Holy_Roman_Empire",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Holy_Roman_Empire",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Holy_Roman_Empire"
+    },
+    "extract": "The Holy Roman Empire was a multi-ethnic complex of territories in Western and Central Europe that developed during the Early Middle Ages and continued until its dissolution in 1806 during the Napoleonic Wars. The largest territory of the empire after 962 was the Kingdom of Germany, though it also came to include the neighboring Kingdom of Bohemia, the Kingdom of Burgundy, the Kingdom of Italy, and numerous other territories.",
+    "extract_html": "<p>The <b>Holy Roman Empire</b> was a multi-ethnic complex of territories in Western and Central Europe that developed during the Early Middle Ages and continued until its dissolution in 1806 during the Napoleonic Wars. The largest territory of the empire after 962 was the Kingdom of Germany, though it also came to include the neighboring Kingdom of Bohemia, the Kingdom of Burgundy, the Kingdom of Italy, and numerous other territories.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "Italy",
+    "displaytitle": "Italy",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q38",
+    "titles": {
+      "canonical": "Italy",
+      "normalized": "Italy",
+      "display": "Italy"
+    },
+    "pageid": 14532,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png",
+      "width": 320,
+      "height": 213
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+      "width": 1500,
+      "height": 1000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903470278",
+    "tid": "55dd20e0-9794-11e9-872e-7f46767153d3",
+    "timestamp": "2019-06-25T21:57:37Z",
+    "description": "republic in Southern Europe",
+    "coordinates": { "lat": 43, "lon": 12 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Italy",
+        "revisions": "https://en.wikipedia.org/wiki/Italy?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Italy?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Italy"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Italy",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Italy",
+        "edit": "https://en.m.wikipedia.org/wiki/Italy?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Italy"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Italy",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Italy",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Italy",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Italy",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Italy",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Italy"
+    },
+    "extract": "Italy, officially the Italian Republic, is a European country consisting of a peninsula delimited by the Italian Alps and surrounded by several islands. Located in the middle of the Mediterranean sea and traversed along its length by the Apennines, Italy has a largely temperate seasonal and Mediterranean climate. The country covers an area of 301,340 km2 (116,350 sq mi) and shares open land borders with France, Slovenia, Austria, Switzerland and the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in the Tunisian Sea (Lampedusa). With around 60 million inhabitants, Italy is the fourth-most populous member state of the European Union.",
+    "extract_html": "<p><b>Italy</b>, officially the <b>Italian Republic</b>, is a European country consisting of a peninsula delimited by the Italian Alps and surrounded by several islands. Located in the middle of the Mediterranean sea and traversed along its length by the Apennines, Italy has a largely temperate seasonal and Mediterranean climate. The country covers an area of 301,340 km<sup>2</sup> (116,350 sq mi) and shares open land borders with France, Slovenia, Austria, Switzerland and the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in the Tunisian Sea (Lampedusa). With around 60 million inhabitants, Italy is the fourth-most populous member state of the European Union.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "Norway",
+    "displaytitle": "Norway",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q20",
+    "titles": {
+      "canonical": "Norway",
+      "normalized": "Norway",
+      "display": "Norway"
+    },
+    "pageid": 21241,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png",
+      "width": 320,
+      "height": 233
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "width": 1100,
+      "height": 800
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903538320",
+    "tid": "e71eb660-97e7-11e9-98de-f593cb805a23",
+    "timestamp": "2019-06-26T07:55:52Z",
+    "description": "Country in Northern Europe",
+    "coordinates": { "lat": 61, "lon": 8 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Norway",
+        "revisions": "https://en.wikipedia.org/wiki/Norway?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Norway?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Norway"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Norway",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Norway",
+        "edit": "https://en.m.wikipedia.org/wiki/Norway?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Norway"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Norway",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Norway",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Norway",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Norway",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Norway",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Norway"
+    },
+    "extract": "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe whose territory comprises the western and northernmost portion of the Scandinavian Peninsula; the remote island of Jan Mayen and the archipelago of Svalbard are also part of the Kingdom of Norway. The Antarctic Peter I Island and the sub-Antarctic Bouvet Island are dependent territories and thus not considered part of the kingdom. Norway also lays claim to a section of Antarctica known as Queen Maud Land.",
+    "extract_html": "<p><b>Norway</b>, officially the <b>Kingdom of Norway</b>, is a Nordic country in Northern Europe whose territory comprises the western and northernmost portion of the Scandinavian Peninsula; the remote island of Jan Mayen and the archipelago of Svalbard are also part of the Kingdom of Norway. The Antarctic Peter I Island and the sub-Antarctic Bouvet Island are dependent territories and thus not considered part of the kingdom. Norway also lays claim to a section of Antarctica known as Queen Maud Land.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "Russia",
+    "displaytitle": "Russia",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q159",
+    "titles": {
+      "canonical": "Russia",
+      "normalized": "Russia",
+      "display": "Russia"
+    },
+    "pageid": 25391,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/320px-Flag_of_Russia.svg.png",
+      "width": 320,
+      "height": 213
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+      "width": 900,
+      "height": 600
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903615000",
+    "tid": "ddc70090-9846-11e9-8640-b5e456c5333b",
+    "timestamp": "2019-06-26T19:15:25Z",
+    "description": "transcontinental country in Eastern Europe and Northern Asia",
+    "coordinates": { "lat": 60, "lon": 90 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Russia",
+        "revisions": "https://en.wikipedia.org/wiki/Russia?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Russia?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Russia"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Russia",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Russia",
+        "edit": "https://en.m.wikipedia.org/wiki/Russia?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Russia"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Russia",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Russia",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Russia",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Russia",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Russia",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Russia"
+    },
+    "extract": "Russia, or the Russian Federation, is a transcontinental country in Eastern Europe and North Asia. At 17,125,200 square kilometres (6,612,100 sq mi), Russia is by a considerable margin the largest country in the world by area, covering more than one-eighth of the Earth's inhabited land area, and the ninth most populous, with about 146.80 million people as of 2019, including Crimea. About 77% of the population live in the western, European part of the country. Russia's capital, Moscow, is one of the largest cities in the world and the second largest city in Europe; other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod. Extending across the entirety of Northern Asia and much of Eastern Europe, Russia spans eleven time zones and incorporates a wide range of environments and landforms. From northwest to southeast, Russia shares land borders with Norway, Finland, Estonia, Latvia, Lithuania and Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia and North Korea. It shares maritime borders with Japan by the Sea of Okhotsk and the U.S. state of Alaska across the Bering Strait. However, Russia recognises two more countries that border it, Abkhazia and South Ossetia, both of which are internationally recognized as parts of Georgia.",
+    "extract_html": "<p><b>Russia</b>, or the <b>Russian Federation</b>, is a transcontinental country in Eastern Europe and North Asia. At 17,125,200 square kilometres (6,612,100 sq mi), Russia is by a considerable margin the largest country in the world by area, covering more than one-eighth of the Earth's inhabited land area, and the ninth most populous, with about 146.80 million people as of 2019, including Crimea. About 77% of the population live in the western, European part of the country. Russia's capital, Moscow, is one of the largest cities in the world and the second largest city in Europe; other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod. Extending across the entirety of Northern Asia and much of Eastern Europe, Russia spans eleven time zones and incorporates a wide range of environments and landforms. From northwest to southeast, Russia shares land borders with Norway, Finland, Estonia, Latvia, Lithuania and Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia and North Korea. It shares maritime borders with Japan by the Sea of Okhotsk and the U.S. state of Alaska across the Bering Strait. However, Russia recognises two more countries that border it, Abkhazia and South Ossetia, both of which are internationally recognized as parts of Georgia.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "Scotland",
+    "displaytitle": "Scotland",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q22",
+    "titles": {
+      "canonical": "Scotland",
+      "normalized": "Scotland",
+      "display": "Scotland"
+    },
+    "pageid": 26994,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/320px-Flag_of_Scotland.svg.png",
+      "width": 320,
+      "height": 192
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+      "width": 1000,
+      "height": 600
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903464403",
+    "tid": "9736a4c0-97e0-11e9-80bd-89168d9e5c11",
+    "timestamp": "2019-06-25T21:11:18Z",
+    "description": "Country in Europe, part of the United Kingdom",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Scotland",
+        "revisions": "https://en.wikipedia.org/wiki/Scotland?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Scotland?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Scotland"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Scotland",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Scotland",
+        "edit": "https://en.m.wikipedia.org/wiki/Scotland?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Scotland"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Scotland",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Scotland",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Scotland",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Scotland",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Scotland",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Scotland"
+    },
+    "extract": "Scotland is a country that is part of the United Kingdom. Sharing a border with England to the southeast, Scotland is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast, the Irish Sea to the south, and the North Channel to the southwest. In addition to the mainland, situated on the northern third of the island of Great Britain, Scotland has over 790 islands, including the Northern Isles and the Hebrides.",
+    "extract_html": "<p><b>Scotland</b> is a country that is part of the United Kingdom. Sharing a border with England to the southeast, Scotland is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast, the Irish Sea to the south, and the North Channel to the southwest. In addition to the mainland, situated on the northern third of the island of Great Britain, Scotland has over 790 islands, including the Northern Isles and the Hebrides.</p>"
+  },
+  {
+    "type": "standard",
+    "title": "Spain",
+    "displaytitle": "Spain",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q29",
+    "titles": {
+      "canonical": "Spain",
+      "normalized": "Spain",
+      "display": "Spain"
+    },
+    "pageid": 26667,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/320px-Flag_of_Spain.svg.png",
+      "width": 320,
+      "height": 213
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+      "width": 750,
+      "height": 500
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "903575426",
+    "tid": "c80cc5d0-981b-11e9-8745-f14b8ef8a875",
+    "timestamp": "2019-06-26T14:07:16Z",
+    "description": "Kingdom in Southwest Europe",
+    "coordinates": { "lat": 40, "lon": -4 },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Spain",
+        "revisions": "https://en.wikipedia.org/wiki/Spain?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Spain?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Spain"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Spain",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Spain",
+        "edit": "https://en.m.wikipedia.org/wiki/Spain?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Spain"
+      }
+    },
+    "api_urls": {
+      "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Spain",
+      "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Spain",
+      "references": "https://en.wikipedia.org/api/rest_v1/page/references/Spain",
+      "media": "https://en.wikipedia.org/api/rest_v1/page/media/Spain",
+      "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Spain",
+      "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Spain"
+    },
+    "extract": "Spain, officially the Kingdom of Spain, is a country mostly located in Europe. Its continental European territory is situated on the Iberian Peninsula. Its territory also includes two archipelagoes: the Canary Islands off the coast of Africa, and the Balearic Islands in the Mediterranean Sea. The African enclaves of Ceuta, Melilla, and Peñón de Vélez de la Gomera make Spain the only European country to have a physical border with an African country (Morocco). Several small islands in the Alboran Sea are also part of Spanish territory. The country's mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean.",
+    "extract_html": "<p><b>Spain</b>, officially the <b>Kingdom of Spain</b>, is a country mostly located in Europe. Its continental European territory is situated on the Iberian Peninsula. Its territory also includes two archipelagoes: the Canary Islands off the coast of Africa, and the Balearic Islands in the Mediterranean Sea. The African enclaves of Ceuta, Melilla, and Peñón de Vélez de la Gomera make Spain the only European country to have a physical border with an African country (Morocco). Several small islands in the Alboran Sea are also part of Spanish territory. The country's mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean.</p>"
+  }
+]
