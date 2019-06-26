@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Francis I",
+    "image": "img/hre/francis_ii.jpg",
+    "house": "Habsburg-Lorraine",
+    "houseImage": "img/houses/habsburg.png",
+    "start": "1804",
+    "end": "1835",
+    "endReason": "Fever, 67",
+    "religion": "Roman Catholic",
+    "JA_events": "Dissolved the Holy Roman Empire after defeat at Austerlitz|\nFounded the Austrian Empire from the Habsburg Monarchy|\nServed as first president of German Confederation from 1815",
+    "JA_wars": "",
+    "JA_relationships": "France, Napoleon I, Son-in-law, img/france/napoleon_i.jpg|\nSicily, Ferdinand I, Father-in-law, img/italy/ferdinand_i.jpg",
+    "border": "img/borders/austria/1835.jpg",
+    "kingdom": "Austria"
+  },
+  {
+    "name": "Ferdinand I",
+    "image": "img/austria/ferdinand_i.jpg",
+    "house": "Habsburg-Lorraine",
+    "houseImage": "img/houses/habsburg.png",
+    "start": "1835",
+    "end": "1848",
+    "endReason": "Abdicated",
+    "religion": "Roman Catholic",
+    "JA_events": "Suffered from seizures, hydrocephaly, and speech impediment|\nConsidered unfit, not allowed to rule independently|\nAbdicated during Revolutions of 1848 in favor of nephew",
+    "JA_wars": "",
+    "JA_relationships": "Sardinia, Victor Emmanuel I, Father-in-law, img/italy/victor_emmanuel_sardinia.jpg",
+    "border": "img/borders/austria/1835.jpg",
+    "kingdom": "Austria"
+  },
+  {
+    "name": "Franz Joseph I",
+    "image": "img/austria/franz_joseph_i.jpg",
+    "house": "Habsburg-Lorraine",
+    "houseImage": "img/houses/habsburg.png",
+    "start": "1848",
+    "end": "1916",
+    "endReason": "Pneumonia, 86",
+    "religion": "Roman Catholic",
+    "JA_events": "Lost claim to Tuscany and Northern Italy|\nLost the leadership of pan-Germany (German Question) to Prussia|\nAnnexed Bosnia and Herzegovina, precipitating World War I",
+    "JA_wars": "Italian Wars of Independence|\nAustro-Prussian War, 1866",
+    "JA_relationships": "Mexico, Maximilian I, Brother, img/mexico/maximilian_i.jpg",
+    "border": "img/borders/austria/1916.jpg",
+    "kingdom": "Austria"
+  },
+  {
+    "name": "Charles I",
+    "image": "img/austria/charles_i.jpg",
+    "house": "Habsburg-Lorraine",
+    "houseImage": "img/houses/habsburg.png",
+    "start": "1916",
+    "end": "1918",
+    "endReason": "Abdicated",
+    "religion": "Roman Catholic",
+    "JA_events": "Abdicated immediately after the armistice of World War I|\nBanished by the Austrian Parliament passing the Habsburg Law|\nAttempted to reclaim Hungary, which became a republic",
+    "JA_wars": "World War I, 1914-18",
+    "JA_relationships": "",
+    "border": "img/borders/austria/1918.jpg",
+    "kingdom": "Austria"
+  }
+]

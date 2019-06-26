@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Harald V",
+    "image": "",
+    "house": "Glucksburg",
+    "houseImage": "",
+    "start": "1991",
+    "end": "2019",
+    "endReason": "",
+    "religion": "",
+    "JA_events": "",
+    "JA_wars": "",
+    "JA_relationships": "",
+    "kingdom": "Norway"
+  },
+  {
+    "name": "Olav V",
+    "image": "",
+    "house": "",
+    "houseImage": "",
+    "start": "1957",
+    "end": "1991",
+    "endReason": "",
+    "religion": "",
+    "JA_events": "",
+    "JA_wars": "",
+    "JA_relationships": "",
+    "kingdom": "Norway"
+  },
+  {
+    "name": "Haakon VII",
+    "image": "",
+    "house": "",
+    "houseImage": "",
+    "start": "1905",
+    "end": "1957",
+    "endReason": "",
+    "religion": "",
+    "JA_events": "",
+    "JA_wars": "",
+    "JA_relationships": "",
+    "kingdom": "Norway"
+  },
+  {
+    "name": "Oscar II",
+    "image": "",
+    "house": "Bernadotte",
+    "houseImage": "",
+    "start": "1872",
+    "end": "1905",
+    "endReason": "",
+    "religion": "",
+    "JA_events": "",
+    "JA_wars": "",
+    "JA_relationships": "",
+    "kingdom": "Norway"
+  }
+]
